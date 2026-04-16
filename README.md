@@ -11,6 +11,16 @@ The pipeline:
 * Downloads dataset files
 * Organizes files into a structured folder system
 
+It includes:
+
+- **Multi-repository data acquisition** using APIs (DataverseNO) and manual collection (Murray Archive)  
+- **Metadata extraction and storage** in a structured SQLite database  
+- **SQLite database (23308310-seeding.db)** containing **100 projects and 25,655 files**  
+- **Automated download pipeline** for retrieving dataset files from Dataverse repositories  
+- **Manual dataset integration** for repositories without API support (Murray Archive)  
+- **Organized folder structure** for efficient dataset storage and access  
+- **Scalable pipeline design** for extending to additional repositories  
+
 ---
 
 ## Dataset Summary
@@ -41,7 +51,7 @@ It contains:
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 QDArchive/
@@ -58,7 +68,7 @@ QDArchive/
 
 ---
 
-## 🔗 Dataset Access
+## Dataset Access
 
 Due to large file size (~87GB), datasets are stored externally.
 
@@ -67,7 +77,7 @@ Access datasets here:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 python main.py stats --db 23308310-seeding.db
@@ -75,7 +85,7 @@ python main.py stats --db 23308310-seeding.db
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * SQLite
@@ -84,7 +94,7 @@ python main.py stats --db 23308310-seeding.db
 
 ---
 
-## 📌 Notes
+## Notes
 
 * Dataverse datasets were collected automatically using API queries
 * Murray Archive datasets were added manually
