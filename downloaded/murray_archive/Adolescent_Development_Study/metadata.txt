@@ -1,1 +1,5 @@
-
+Title: Adolescent Development Study
+Author: Offer, Daniel
+URL: https://doi.org/10.7910/DVN/3M9L9F
+Repository: Murray Archive
+License: Custom Dataset Terms
