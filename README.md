@@ -44,7 +44,7 @@ It includes:
 | 1  | DataverseNO     | [https://dataverse.no](https://dataverse.no) |
 | 2  | Murray Archive  | [https://www.murray.harvard.edu](https://www.murray.harvard.edu) |
 
-## 🔍 Query Strategy
+##  Query Strategy
 
 The pipeline uses a set of predefined search queries to retrieve relevant QDA datasets from repositories.
 
