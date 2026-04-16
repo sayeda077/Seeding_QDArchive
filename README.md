@@ -143,11 +143,7 @@ python main.py stats --db 23308310-seeding.db
 
 ---
 
-## Notes
 
-* Dataverse datasets were collected automatically using API queries
-* Murray Archive datasets were added manually
-* File counts are based on actual downloaded files in each repository
 
 ---
 
