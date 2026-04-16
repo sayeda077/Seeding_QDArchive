@@ -1,0 +1,474 @@
+study_id	journal	doi	year	variable_measured	role_in_study	multi_item	scale_details	anchors	categories	analysis	dimension
+AL 33_1-4	Applied Linguistics	https://doi.org/10.1093/applin/amr037	2012	Concreteness and imagery of items	stimulus validation	0	NA	NA	7	means	NA
+AL 34-1_3	Applied Linguistics	https://doi.org/10.1093/applin/ams023	2013	Willingness to communicate	predictor	1	(1) almost never willing, (2) sometimes willing, (3) willing half of the time, (4) usually willing, (5) almost always willing	each category	5	means	frequency
+AL 34-1_3	Applied Linguistics	https://doi.org/10.1093/applin/ams023	2013	Salience of daily hassles	outcome	1	(1) absence of annoyance or problems, (5) major source of annoyance or problems	NA	5	means	NA
+AL 34-1_3	Applied Linguistics	https://doi.org/10.1093/applin/ams023	2013	Self-assessment: L2 confidence in reading, listening, speaking, writing	predictor	1	Likert-type	each category	7	means	agreement
+AL 34-1_3	Applied Linguistics	https://doi.org/10.1093/applin/ams023	2013	Perceived stress	outcome	1	(1) not at all, (8) extreme	NA	8	means	NA
+AL 34-2_6	Applied Linguistics	https://doi.org/10.1093/applin/ams041	2013	EFL anxiety	correlational variable	1	Likert-type	each category	7	means	agreement
+AL 34-4_3	Applied Linguistics	https://doi.org/10.1093/applin/ams066	2013	Self-reported use of pronunciation strategies	correlational variable	0	(1) several times a day, (2) once a day, (3) once a week, (4) once a month, (5) less than once a month, (6) never	each category	6	means	NA
+AL 34-4_3	Applied Linguistics	https://doi.org/10.1093/applin/ams066	2013	Pronunciation	correlational variable	0	1 to 7	numbers	7	means	NA
+AL 34-4_4	Applied Linguistics	https://doi.org/10.1093/applin/ams074	2013	Difficulty of story	stimulus validation	0	(1) completely incomprehensible; I cannot understand the overall story at all and I couldn’t catch any of the details either, (10) completely comprehensible; I can understand the overall story and all of the details without any problems	endpoints	10	means	NA
+AL 36-1_5	Applied Linguistics	https://doi.org/10.1093/applin/amt037	2015	Response to advertisement	outcome	1	Likert-type	each category	7	means	agreement
+AL 36-5_4	Applied Linguistics	https://doi.org/10.1093/applin/amt056	2015	Global lexical proficiency rating	outcome	0	1 to 5	numbers	5	means	NA
+AL 36-5_4	Applied Linguistics	https://doi.org/10.1093/applin/amt056	2015	Ratings of accuracy of various lexical features in text	predictor	0	1 to 6	numbers	6	means	NA
+AL 36-5_8	Applied Linguistics	https://doi.org/10.1093/applin/amv020	2015	Motivation	outcome	1	Likert-type	each category	5	means	agreement
+AL 36-5_8	Applied Linguistics	https://doi.org/10.1093/applin/amv020	2015	Self-regulating capacity in vocabulary learning	predictor	1	Likert-type	each category	5	means	agreement
+AL 37-2_2	Applied Linguistics	https://doi.org/10.1093/applin/amu003	2016	Acceptability	outcome	0	(1) unacceptable, (5) perfectly acceptable	endpoints	5	means	NA
+AL 37-3_1	Applied Linguistics	https://doi.org/10.1093/applin/amu021	2016	Classroom observation: Teacher motivational practices	predictor	1	(1) very often, (2) often, (3) occasionally, (4) rarely, (5) never	each category	5	means	frequency
+AL 37-3_1	Applied Linguistics	https://doi.org/10.1093/applin/amu021	2016	Various learner variables	outcome	1	(1) very untrue, (2) untrue, (3) neutral, (4) true, (5) very true	each category	5	means	intensity
+AL 37-3_1	Applied Linguistics	https://doi.org/10.1093/applin/amu021	2016	Classroom observation: Motivated learner behavior	outcome	1	(1) none, (2) few, (3) some, (4) many, (5) most	each category	5	means	quantifiers
+AL 37-3_6	Applied Linguistics	https://doi.org/10.1093/applin/amu039	2016	Perceived difficulty of task	stimulus validation	0	(1) easy, (5) difficult	endpoints	5	means	NA
+AL 37-4_3	Applied Linguistics	https://doi.org/10.1093/applin/amu046	2016	Motivation	outcome	1	Likert-type	each category	6	means	agreement
+AL 37-5_5	Applied Linguistics	https://doi.org/10.1093/applin/amu060	2016	Exposure to accents	correlational variable	0	(1) rarely, (2) sometimes, (3) often, (4) very often	each category	4	means	frequency
+AL 37-5_5	Applied Linguistics	https://doi.org/10.1093/applin/amu060	2016	Familiarity with accent	correlational variable	0	(1) not at all familiar, (2) a little familiar, (3) familiar, (4) very familiar	each category	4	means	intensity
+AL 37-5_5	Applied Linguistics	https://doi.org/10.1093/applin/amu060	2016	Accentedness	correlational variable	0	(1) The speaker’s accent was NOT noticeably different than what I am used to and did NOT require me to concentrate on listening any more than usual. The accent did NOT decrease my understanding. (2) The speaker’s accent was noticeably different than what I am used to but did NOT require me to concentrate on listening any more than usual. The accent did NOT decrease my understanding. (3) The speaker’s accent was noticeably different than what I am used to and did require me to concentrate on listening more than usual. However, the accent did NOT decrease my understanding. (4) The speaker’s accent was noticeably different than what I am used to and did require me to concentrate on listening more than usual. The accent slightly decreased my understanding. (5) The speaker’s accent was noticeably different than what I am used to and did require me to concentrate on listening more than usual. The accent substantially decreased my understanding.	each category	5	means	NA
+AL 38-2_4	Applied Linguistics	https://doi.org/10.1093/applin/amv013	2017	Role of English in Moroccan economy	outcome	0	Likert-type	each category	5	means	agreement
+AL 38-3_3	Applied Linguistics	https://doi.org/10.1093/applin/amv029	2017	Felicity, acceptability	outcome	0	(1) infelicitous, (5) felicitous; (1) completely ungrammatical, (5) perfectly grammatical	endpoints	5	means	NA
+AL 38-4_3	Applied Linguistics	https://doi.org/10.1093/applin/amv050	2017	Writing evaluation	outcome	0	(1) not enough to evaluate, (6) very good	endpoints	6	means	NA
+AL 38-5_4	Applied Linguistics	https://doi.org/10.1093/applin/amv059	2017	Motivation	outcome	1	Likert-type	each category	5	means	agreement
+AL 38-5_5	Applied Linguistics	https://doi.org/10.1093/applin/amv060	2017	Effort assessment	outcome	1	Likert-type	each category	5	means	agreement
+AL 38-6_3	Applied Linguistics	https://doi.org/10.1093/applin/amv071	2017	Motivation	predictor	1	Likert-type	each category	4	means	agreement
+AL 38-6_4	Applied Linguistics	https://doi.org/10.1093/applin/amv070	2017	Importance of phrase for udnerstanding a sentence	stimulus validation	0	0 to 3	numbers	4	means	NA
+AL 39-3_6	Applied Linguistics	https://doi.org/10.1093/applin/amw017	2018	Blame assignment for violent event	outcome	0	(1) Protesters Fully to Blame, (2) Protesters Mainly to Blame, (3) Both Parties Equally to Blame, (4) Police Mainly to Blame,  (5) Police Fully to Blame	each category	5	nonparametric	intensity
+AL 39-3_6	Applied Linguistics	https://doi.org/10.1093/applin/amw017	2018	Aggressiveness rating	outcome	0	(1) not aggressive at all, (7) extremely aggressive	endpoints	7	nonparametric	NA
+AL 40-1_2	Applied Linguistics	https://doi.org/10.1093/applin/amx005	2019	Lexical proficiency rating	outcome	0	(1) little lexical mastery, (5) high lexical proficiency	endpoints	5	means	NA
+AL 40-2_3	Applied Linguistics	https://doi.org/10.1093/applin/amx017	2019	Perception of speaker	outcome	0	(1) not at all, (5) very much	endpoints	5	means	NA
+AL 40-2_7	Applied Linguistics	https://doi.org/10.1093/applin/amx030	2019	Naturalness	predictor	0	(1) very unnatural, (5) very natural	endpoints	5	means	NA
+AL 40-2_8	Applied Linguistics	https://doi.org/10.1093/applin/amx036	2019	Language competence, self-rating; Comfort in using French, self-rating	predictor	1	(1) very poor, (7) native-like; (1) Not comfortable at all, (7) As comfortable as a native speaker	endpoints	7	means	NA
+AL 40-2_8	Applied Linguistics	https://doi.org/10.1093/applin/amx036	2019	Cultural orientation	predictor	1	(1) strongly disagree, (3) disagree, (5) neutral, (7) agree, (9) strongly agree	endpoints and midpoint	9	means	agreement
+AL 40-3_4	Applied Linguistics	https://doi.org/10.1093/applin/amx047	2019	Language mindset	predictor	1	Likert-type	each category	6	means	agreement
+AL 40-3_5	Applied Linguistics	https://doi.org/10.1093/applin/amx054	2019	Perceived task difficulty	outcome	0	NA	NA	9	means	NA
+AL 40-5_4	Applied Linguistics	https://doi.org/10.1093/applin/amy022	2019	Feminine or masculine connotation of nouns	stimulus validation	0	(1) extremely feminine, (4) neutral, (7) extremely masculine	endpoints and midpoint	7	means	NA
+AL 40-6_2	Applied Linguistics	https://doi.org/10.1093/applin/amy032	2019	Communication ability judgment	predictor	0	(1) poor, (7) excellent	endpoints	7	NA	NA
+AL 40-6_5	Applied Linguistics	https://doi.org/10.1093/applin/amy039	2019	Measurement of ""need for cognition""	predictor	1	Likert-type	each category	5	means	agreement
+AL 40-6_5	Applied Linguistics	https://doi.org/10.1093/applin/amy039	2019	Perception of advertisements	outcome	0	(1) I don't like it at all, (5) I like it a lot	endpoints	5	means	NA
+AL 41-4_1	Applied Linguistics	https://doi.org/10.1093/applin/amy053	2020	Accentedness rating	outcome	0	(1) no accent, (7) heavy accent	endpoints	7	means	NA
+AL 42-1_7	Applied Linguistics	https://doi.org/10.1093/applin/amz056	2021	Importance rating for characteristics (e.g. accent, fluency)	outcome	0	(1) Not important at all, (2) Not very important, (3)  So so, (4) Quite important, (5) Very important	each category	5	means	intensity
+AL 42-3_7	Applied Linguistics	https://doi.org/10.1093/applin/amaa033	2021	Instructor evaluation	outcome	1	Likert-type	each category	7	means	agreement
+AL 42-3_8	Applied Linguistics	https://doi.org/10.1093/applin/amaa046	2021	Perception of tweets	outcome	0	semantic differential scale, (1) detached, (7) sympathetic	endpoints	7	means	NA
+AL 42-4_2	Applied Linguistics	https://doi.org/10.1093/applin/amaa051	2021	Performace rating in interview	outcome	0	(1) not acceptable, (7) exceptional	endpoints	7	nonparametric, means	NA
+AL 42-5_5	Applied Linguistics	https://doi.org/10.1093/applin/amaa067	2021	Rating of different competences	outcome	0	Likert-type	each category	5	means	agreement
+AL 42-5_6	Applied Linguistics	https://doi.org/10.1093/applin/amaa056	2021	Competence slef-ratings	predictor	0	(1) poor, (5) native speaker command	endpoints	5	means	NA
+AL 43-1_5	Applied Linguistics	https://doi.org/10.1093/applin/amab013	2022	Appropriateness of speech acts	outcome	0	(0) no performance, (1) very poor, (2) poor, (3) fair, (4) good, (5) excellent	each category	5	means	quality
+AL 43-1_7	Applied Linguistics	https://doi.org/10.1093/applin/amab005	2022	L2 self-efficacy	outcome	1	Likert-type	each category	5	means	agreement
+AL 43-2_5	Applied Linguistics	https://doi.org/10.1093/applin/amab044	2022	Self-rated plurilingual and pluricultural competence	outcome	1	Likert-type	each category	4	means	agreement
+AL 43-3_7	Applied Linguistics	https://doi.org/10.1093/applin/amab046	2022	Attitude rating towards variety	outcome	0	Likert-type	NA	5	means	agreement
+AL 43-3_7	Applied Linguistics	https://doi.org/10.1093/applin/amab046	2022	Verbal guise task	outcome	0	Likert-type	NA	7	means	agreement
+AL 43-4_1	Applied Linguistics	https://doi.org/10.1093/applin/amab079	2022	Researcher perceptions	outcome	0	Likert-type	each category	6	means	agreement
+AL 43-5_1	Applied Linguistics	https://doi.org/10.1093/applij/amab071	2022	Valence ratings	outcome	1	Emojis	each category	7	means	NA
+AL 43-5_2	Applied Linguistics	https://doi.org/10.1093/applij/amab072	2022	Accentedness rating	outcome	0	NA	NA	9	orm	NA
+AL 43-5_5	Applied Linguistics	https://doi.org/10.1093/applij/amac013	2022	Teacher ratings	outcome	0	different scales; (1) strongly disagree, (5) strongly agree; (1) very negative influence, (5) very positive influence; (1) not common at all, (5) very common	endpoints	5	means	NA
+AL 43-5_8	Applied Linguistics	https://doi.org/10.1093/applij/amac018	2022	Foreign language anxiety	outcome	1	Likert-type	each category	5	means	agreement
+AP 33-2_7	Applied Psycholinguistics	https://doi.org/10.1017/S0142716411000403	2012	Spelling accuracy	outcome	0	Defined categories	each category	8	means	NA
+AP 33-3_5	Applied Psycholinguistics	https://doi.org/10.1017/S0142716411000476	2012	Perceptual modality rating	outcome	0	NA	NA	5	means	NA
+AP 33-4_4	Applied Psycholinguistics	https://doi.org/10.1017/S0142716411000555	2012	Frequency rating	stimulus validation	0	NA	NA	7	NA	NA
+AP 34-2_7	Applied Psycholinguistics	https://doi.org/10.1017/S0142716411000737	2013	Accentedness rating	outcome	0	combination of two ratings; (1) classification of speaker as native vs. non-native and (2) indication of confidence: certain, semicertain, uncertain	each category	6	means	probability
+AP 34-3_3	Applied Psycholinguistics	https://doi.org/10.1017/S014271641100083X	2013	AoA, mode of acquisition, familiarity and imagery ratings	correlational variable	0	(1) acquired entirely by perceptual information, (7) acquired entirely by linguistic information, (2) to (6) ranged from more by perceptual than by linguistic information to more by linguistic than by perceptual information; (1) very unfamiliar, (7) very familiar; (1) hardly imageable, (7) very imageable	NA	7	means	NA
+AP 34-3_4	Applied Psycholinguistics	https://doi.org/10.1017/S0142716411000841	2013	Acceptability rating	outcome	0	(1) unacceptable, (4) acceptable	endpoints	4	means	NA
+AP 34-6_4	Applied Psycholinguistics	https://doi.org/10.1017/S0142716412000197	2013	Acceptability rating	outcome	0	(1) worst, (6) best	endpoints	6	means	NA
+AP 34-6_6	Applied Psycholinguistics	https://doi.org/10.1017/S0142716412000215	2013	Language use English and Spanish	predictor	0	(1) never, (2) a little, (3) some of the time, (4) most of the time, (5) all the time	each category	5	means	frequency
+AP 34-6_6	Applied Psycholinguistics	https://doi.org/10.1017/S0142716412000215	2013	Language use English vs. Spanish; Receptive and expressive language skills; English proficiency rating	predictor	0	(1) no English used, (2) more Spanish than English, (3) equal amounts of Spanish and English, (4) more English than Spanish, (5) all English; Defined categories; Defined categories	each category	5	means	NA
+AP 35-1_7	Applied Psycholinguistics	https://doi.org/10.1017/S0142716412000288	2014	Level of education	sample description	0	(1) not completed high school, (2) high school diploma, (3) some postsecondary education, (4) bachelor’s degree, (5) graduate or professional degree	each category	5	means	NA
+AP 35-1_7	Applied Psycholinguistics	https://doi.org/10.1017/S0142716412000288	2014	Language use in the home	sample description	0	(1) all English, (5) no English	NA	5	means	NA
+AP 35-1_8	Applied Psycholinguistics	https://doi.org/10.1017/S014271641200029X	2014	Proficiency rating	sample description	0	(1) beginner, (5) nativelike	endpoints	5	description_categorical	NA
+AP 35-2_4	Applied Psycholinguistics	https://doi.org/10.1017/S0142716412000409	2014	Familiarity rating	outcome	0	(1) not at all, (7) very high	endpoints	7	means	NA
+AP 35-3_1	Applied Psycholinguistics	https://doi.org/10.1017/S0142716412000471	2014	Perceived emotionality of words	outcome	0	(1) unemotional, (7) emotional	endpoints	7	means	NA
+AP 35-6_2	Applied Psycholinguistics	https://doi.org/10.1017/S0142716412000665	2014	Likelihood of variant	outcome	0	(1) very unlikely, (7) very likely	endpoints	7	means	NA
+AP 36-3_2	Applied Psycholinguistics	https://doi.org/10.1017/S0142716413000337	2015	Imageability rating	stimulus validation	0	(1) very low imageability, (7) very high imageability	endpoints	7	means	NA
+AP 36-3_7	Applied Psycholinguistics	https://doi.org/10.1017/S0142716413000386	2015	Acceptability rating	outcome	1	(1) very strange, (4) perfect	endpoints	4	means	NA
+AP 36-3_7	Applied Psycholinguistics	https://doi.org/10.1017/S0142716413000386	2015	Naturalness rating	outcome	1	(1) not natural, (7) perfectly natural	endpoints	7	means	NA
+AP 36-4_3	Applied Psycholinguistics	https://doi.org/10.1017/S0142716413000520	2015	Semantic relatedness rating	stimulus validation	0	NA	NA	7	means	NA
+AP 36-4_5	Applied Psycholinguistics	https://doi.org/10.1017/S0142716413000544	2015	Language use	correlational variable	0	(1) only Turkish, (2) more Turkish than German, (3) equal amounts of Turkish and German, (4) more Turkish than German, (5) only German	each category	5	means, orm	NA
+AP 36-4_9	Applied Psycholinguistics	https://doi.org/10.1017/S0142716414000010	2015	Gender typicality	stimulus validation	0	(1) typically male, (7) typically female	endpoints	7	means	NA
+AP 36-4_9	Applied Psycholinguistics	https://doi.org/10.1017/S0142716414000010	2015	Perceived proportion of men and women in a profession	stimulus validation	0	(1) only men, (4) same amount of women and men , (7) only women	endpoints and midpoint	7	means	NA
+AP 36-6_5	Applied Psycholinguistics	https://doi.org/10.1017/S0142716414000332	2015	Semantic relatedness	outcome	0	(1) completely unrelated, (5) almost the same meaning	endpoints	5	means	NA
+AP 36-6_7	Applied Psycholinguistics	https://doi.org/10.1017/S0142716414000496	2015	Similarity of sound to speech	stimulus validation	0	(1) not at all like speech, (7) exactly like speech	endpoints	7	means	NA
+AP 37-2_11	Applied Psycholinguistics	https://doi.org/10.1017/S0142716415000065	2016	Frequency of use of text abbreviations	predictor	0	(1) frequently, (2) sometimes, (3) never	each category	3	means	frequency
+AP 37-2_5	Applied Psycholinguistics	https://doi.org/10.1017/S0142716414000575	2016	Comprehensibility; Accentedness	outcome	0	(1) very easy to understand, (5) very difficult to understand; (1) no accent, (5) strong accent	endpoints	5	means	NA
+AP 37-2_6	Applied Psycholinguistics	https://doi.org/10.1017/S0142716414000587	2016	Acceptability	outcome	0	(1) completely acceptable, (2) acceptable, (3) I am not sure, (4) unacceptable, (5) completely unacceptable	each category	5	means	intensity
+AP 37-3_10	Applied Psycholinguistics	https://doi.org/10.1017/S0142716415000223	2016	Accentedness rating	sample description	0	(1) don't understand, (9) native speaker	endpoints	9	means	NA
+AP 37-3_4	Applied Psycholinguistics	https://doi.org/10.1017/S0142716415000120	2016	Cognitive style; ability and engagement	correlational variable	1	Likert-type	each category	5	means	agreement
+AP 37-3_7	Applied Psycholinguistics	https://doi.org/10.1017/S0142716415000193	2016	Similarity	stimulus validation	0	(1) not at all similar, (7) identical	endpoints	7	means	NA
+AP 37-4_2	Applied Psycholinguistics	https://doi.org/10.1017/S0142716415000247	2016	Confidence rating	predictor	0	(1) no confidence, (2) somewhat confident, (3) very confident, (4) absolutely certain	each category	4	NA	intensity
+AP 37-4_4	Applied Psycholinguistics	https://doi.org/10.1017/S0142716415000260	2016	Rating of how well an interjection fits into a context	outcome	0	(1) not likely to be part of the message, (7) very likely to be part of the message	endpoints	7	means	NA
+AP 37-6_9	Applied Psycholinguistics	https://doi.org/10.1017/S0142716416000096	2016	Animacy	predictor	0	(1) the least animate, (7) the most animate	endpoints	7	means	NA
+AP 38-1_1	Applied Psycholinguistics	https://doi.org/10.1017/S0142716416000035	2017	Acceptability	predictor	0	(1) completely unacceptable, (2) fairly unacceptable, (3) slightly unacceptable, (4) slightly acceptable, (5) fairly acceptable, (6) completely acceptable	each category	6	description_categorical	intensity
+AP 38-2_6	Applied Psycholinguistics	https://doi.org/10.1017/S0142716416000254	2017	Intelligibility rating	outcome	0	(1) difficult to understand, (5) easy to understand	endpoints	5	means	NA
+AP 38-2_9	Applied Psycholinguistics	https://doi.org/10.1017/S0142716416000266	2017	Concreteness and familiarty of words	stimulus validation	0	(1) minimum levels of concreteness, (7) maximum level of concreteness	endpoints	7	means	NA
+AP 38-2_9	Applied Psycholinguistics	https://doi.org/10.1017/S0142716416000266	2017	Emotional valence, arousal of words	stimulus validation	0	(1) not arousing at all, (9) strongly arousing	endpoints	9	means	NA
+AP 38-3_1	Applied Psycholinguistics	https://doi.org/10.1017/S014271641600031X	2017	Self-reported comprehension rating	outcome	0	(1) did not understand at all, (7) understood completely	endpoints	7	means	NA
+AP 38-4_5	Applied Psycholinguistics	https://doi.org/10.1017/S0142716416000485	2017	Current language use at home	predictor	0	(1) mainly or only A, (2) usually A sometimes B, (3) both equally often, (4) sometimes A usually B, (5) mainly or only B	each category	5	means	frequency
+AP 39-1_9	Applied Psycholinguistics	https://doi.org/10.1017/S0142716417000224	2018	Semantic relatednes	stimulus validation	0	(1) no or almost no relation, (5) strong relation	endpoints	5	means	NA
+AP 39-3_1	Applied Psycholinguistics	https://doi.org/10.1017/S0142716417000443	2018	Valence and arousal ratings	outcome	0	manikins; SAM (Self Assessment Manikin) scale by Bradley and Lang 1994	each category	5	means	NA
+AP 39-3_1	Applied Psycholinguistics	https://doi.org/10.1017/S0142716417000443	2018	Abstractness	correlational variable	0	(1) very abstract, (7) very concrete	endpoints	7	means	NA
+AP 39-3_8	Applied Psycholinguistics	https://doi.org/10.1017/S0142716417000601	2018	Plausibility and semantic integration	stimulus validation	0	(1) verys implausible, (5) very plausible	endpoints	5	means	NA
+AP 39-6_6	Applied Psycholinguistics	https://doi.org/10.1017/S0142716418000309	2018	Body object interaction	outcome	0	(1) low, (4) medium, (7) high	endpoints and midpoint	7	means	NA
+AP 40-1_2	Applied Psycholinguistics	https://doi.org/10.1017/S0142716418000449	2019	Self-rated proficiency	sample description	0	labels for all categories	each category	9	means	NA
+AP 40-1_3	Applied Psycholinguistics	https://doi.org/10.1017/S0142716418000450	2019	Self-rated proficiency	sample description	0	NA	NA	5	means	NA
+AP 40-2_13	Applied Psycholinguistics	https://doi.org/10.1017/S0142716418000693	2019	Vividness of visual imagery	correlational variable	0	NA	endpoints	7	means	NA
+AP 40-2_15	Applied Psycholinguistics	https://doi.org/10.1017/S0142716418000711	2019	Goodness-of-fit rating	outcome	0	(1) bad, (7) very good	endpoints	7	means	NA
+AP 40-3_2	Applied Psycholinguistics	https://doi.org/10.1017/S0142716418000760	2019	Confidence rating	predictor	0	(1) no confidence (guessing), (2) somewhat confident, (3) very confident, (3) absolutely certain (100% confident)	each category	4	description_categorical	probability
+AP 40-3_4	Applied Psycholinguistics	https://doi.org/10.1017/S0142716418000784	2019	Word familiarity	sample description	0	(0) no knowledge, (1) passive knowledge (understands but doesn’t use the word) (2) regular production of the word (understands and uses the word)	each category	3	means	NA
+AP 40-3_6	Applied Psycholinguistics	https://doi.org/10.1017/S0142716418000826	2019	Acquisition of literacy skills in elementary school	predictor	1	(0) not at all, (1) less than most, (2) about the same, (3) more than most, (4) much more than most	each category	5	means	NA
+AP 40-3_6	Applied Psycholinguistics	https://doi.org/10.1017/S0142716418000826	2019	Acquisition of literacy skills in elementary school	predictor	1	(0) none, (4) a great deal	endpoints	5	means	NA
+AP 40-3_6	Applied Psycholinguistics	https://doi.org/10.1017/S0142716418000826	2019	Acquisition of literacy skills in elementary school	predictor	1	(1) above average), (3) average, (5) below average	endpoints and midpoint	5	means	NA
+AP 40-4_5	Applied Psycholinguistics	https://doi.org/10.1017/S0142716419000079	2019	Frequency of language use	sample description	0	(1) never, (5) all the time	NA	5	description_categorical	NA
+AP 40-4_5	Applied Psycholinguistics	https://doi.org/10.1017/S0142716419000079	2019	Ability to understand language	sample description	0	(1) poor, (7) excellent	NA	7	description_categorical	NA
+AP 40-5_1	Applied Psycholinguistics	https://doi.org/10.1017/S0142716419000146	2019	Acceptability	outcome	0	(1) totally unacceptable, (2) very poor English, (3) poor English, (4) almost correct English, (5) completely acceptable	each category	5	description_categorical	NA
+AP 40-5_1	Applied Psycholinguistics	https://doi.org/10.1017/S0142716419000146	2019	Semantic transparency	predictor	0	(1) very easy to guess, (5) very difficult to guess	endpoints	5	means	NA
+AP 40-5_1	Applied Psycholinguistics	https://doi.org/10.1017/S0142716419000146	2019	Self-rated proficiency	sample description	0	(1) none, (10) nativelike	endpoints	10	means	NA
+AP 40-5_10	Applied Psycholinguistics	https://doi.org/10.1017/S0142716419000286	2019	Truth value of statement	outcome	0	(1) yes, (2) indecisive, (3) no	each category	3	means	NA
+AP 40-5_10	Applied Psycholinguistics	https://doi.org/10.1017/S0142716419000286	2019	Self-rated proficiency	sample description	0	(1) not at all proficient, (7) very proficient	endpoints	7	means	NA
+AP 40-6_2	Applied Psycholinguistics	https://doi.org/10.1017/S0142716419000298	2019	Pronunciation proficiency	outcome	0	description for all categories	each category	5	means	NA
+AP 41-2_1	Applied Psycholinguistics	https://doi.org/10.1017/S014271641900050X	2020	Semantic relatedness	outcome	0	(1) unrelated meanings, (9) same emaning	endpoints	9	means	NA
+AP 41-4_10	Applied Psycholinguistics	https://doi.org/10.1017/S0142716420000314	2020	Plausibility	stimulus validation	0	(1) very plausible, (7) very implausible	endpoints	7	means	NA
+AP 41-4_6	Applied Psycholinguistics	https://doi.org/10.1017/S0142716420000260	2020	Self-rated proficiency	sample description	0	(1) none, (2) some, (3) fair, (4) very good	each category	4	means	NA
+AP 41-4_8	Applied Psycholinguistics	https://doi.org/10.1017/S0142716420000296	2020	Naturalness	stimulus validation	0	(1) unnatural, (10) natural	endpoints	10	means	NA
+AP 41-5_6	Applied Psycholinguistics	https://doi.org/10.1017/S0142716420000466	2020	Semantic relatedness	predictor	0	(1) not related at all, (5) highly related	endpoints	7	means	NA
+AP 41-5_8	Applied Psycholinguistics	https://doi.org/10.1017/S0142716420000442	2020	Perceived task difficulty	outcome	0	(1) The task was very easy, (9) The task was very difficult	endpoints	9	means	NA
+AP 41-5_8	Applied Psycholinguistics	https://doi.org/10.1017/S0142716420000442	2020	Self-rated proficiency	sample description	0	NA	NA	10	means	NA
+AP 41-5_9	Applied Psycholinguistics	https://doi.org/10.1017/S014271642000051X	2020	Familiarity	stimulus validation	0	(1) never heard the phrase before, (7) heard it many times	endpoints	7	means	NA
+AP 41-6_1	Applied Psycholinguistics	https://doi.org/10.1017/S014271642000017X	2020	Current language use at home	predictor	0	(1) mainly or only A, (2) usually A sometimes B, (3) both equally often, (4) sometimes A usually B, (5) mainly or only B	each category	5	means	frequency
+AP 42-1_2	Applied Psycholinguistics	https://doi.org/10.1017/S0142716420000557	2021	Self-rated proficiency	predictor	1	(1) very low, (5) very good	endpoints	5	means	NA
+AP 42-1_2	Applied Psycholinguistics	https://doi.org/10.1017/S0142716420000557	2021	Foreign language use	predictor	0	(1) practically never, (6) daily or nearly daily	endpoints	6	means	NA
+AP 42-1_2	Applied Psycholinguistics	https://doi.org/10.1017/S0142716420000557	2021	Self-reported change in ability	outcome	0	(1) I can barely do this anymore/cannot do this at all anymore, (2) has got noticeably weaker, (3) has got a bit weaker, (4) has stayed about the same, (5)  has got a bit stronger, (6) has got noticeably stronger, (7) has got a whole lot stronger	each category	7	means	intensity
+AP 42-1_3	Applied Psycholinguistics	https://doi.org/10.1017/S0142716420000582	2021	Self-rated proficiency	sample description	0	NA	NA	11	means	NA
+AP 42-1_8	Applied Psycholinguistics	https://doi.org/10.1017/S0142716420000697	2021	Naturalness	stimulus validation	0	(1) the least natural, (5) the most natural	endpoints	5	means	NA
+AP 42-2_1	Applied Psycholinguistics	https://doi.org/10.1017/S0142716420000521	2021	Frequency of language use	predictor	1	(1) no use, (7) always	endpoints	7	means	NA
+AP 42-2_7	Applied Psycholinguistics	https://doi.org/10.1017/S0142716420000806	2021	Self-reported willingness to engange in prosocial behavior	outcome	0	(1) totally agree, (7) totally disagree	endpoints	7	means	NA
+AP 42-2_9	Applied Psycholinguistics	https://doi.org/10.1017/S014271642000082X	2021	Word familiarity	stimulus validation	0	(1) no knowledge of the word, (7) word known and frequently employed	endpoints	7	means	NA
+AP 42-4_4	Applied Psycholinguistics	https://doi.org/10.1017/S014271642100014X	2021	Self-rated proficiency	sample description	0	NA	NA	10	means	NA
+AP 42-5_4	Applied Psycholinguistics	https://doi.org/10.1017/S0142716421000229	2021	Current language use at home	predictor	1	(1) mainly or only A, (2) usually A sometimes B, (3) both equally often, (4) sometimes A usually B, (5) mainly or only B	each category	5	means	frequency
+AP 42-5_4	Applied Psycholinguistics	https://doi.org/10.1017/S0142716421000229	2021	Self-rated fluency	predictor	0	(1) Not fluent, (2) Limited fluency, (3) Somewhat fluent, (4) Quite fluent, (5) Very fluent	each category	5	means	intensity
+AP 42-6_2	Applied Psycholinguistics	https://doi.org/10.1017/S014271642100028X	2021	Trait-anxiety	correlational variable	1	Likert-type	each category	6	means	agreement
+AP 42-6_3	Applied Psycholinguistics	https://doi.org/10.1017/S0142716421000291	2021	Acceptability	outcome	0	(1) very strange, (7) perfect	endpoints	7	means	NA
+AP 42-6_5	Applied Psycholinguistics	https://doi.org/10.1017/S0142716421000333	2021	Sociability	sample description	0	(1) never, (5) always	NA	5	means	NA
+AP 43-1_4	Applied Psycholinguistics	https://doi.org/10.1017/S0142716421000424	2022	Acceptability	stimulus validation	0	(1) unacceptable, (5) fully acceptable	NA	5	means	NA
+AP 43-3_2	Applied Psycholinguistics	https://doi.org/10.1017/S0142716422000017	2022	Word familiarity	stimulus validation	0	(1) I had never seen this word; (2) I had seen this word before, but I did not know its meaning; (3) I had already seen this word and knew its meaning; (4) I was already very familiar with this word, its meaning and usage	each category	4	means	NA
+AP 43-3_2	Applied Psycholinguistics	https://doi.org/10.1017/S0142716422000017	2022	Readability	stimulus validation	0	(1) least readable, (10) most readable	endpoints	10	means	NA
+AP 43-3_6	Applied Psycholinguistics	https://doi.org/10.1017/S0142716422000078	2022	Language use	predictor	1	(1) A only, (2) more A than B, (3) both equally often, (4) more B than A, (5) B only	each category	5	means	NA
+AP 43-3_8	Applied Psycholinguistics	https://doi.org/10.1017/S0142716422000108	2022	ADHD-related behavior	predictor	1	(0) never; (1) sometimes; (2) often; (3) almost always	each category	4	means	frequency
+AP 43-3_8	Applied Psycholinguistics	https://doi.org/10.1017/S0142716422000108	2022	Language competence	predictor	0	(1) Not fluent, (2) Limited fluency, (3) Somewhat fluent, (4) Quite fluent, (5) Very fluent	each category	5	means	intensity
+AP 43-3_9	Applied Psycholinguistics	https://doi.org/10.1017/S014271642200011X	2022	English-likeness of word	stimulus validation	0	(1) very unlikely to be an English word, (6) very likely to be an English word	endpoints	6	means	NA
+AP 43-4_4	Applied Psycholinguistics	https://doi.org/10.1017/S0142716422000169	2022	Salience, ease of expression	predictor	0	(1) not salient, (5) extremely salient	endpoints	5	means	intensity
+AP 43-5_1	Applied Psycholinguistics	https://doi.org/10.1017/S0142716422000248	2022	Language competence	predictor	0	(1) does not understand this language when it is spoken, (5) under-stands this language very well	each category	5	means	intensity
+AP 43-5_1	Applied Psycholinguistics	https://doi.org/10.1017/S0142716422000248	2022	Language awareness rating	predictor	0	combination of two ratings: yes/no response and indication of certainty: very sure, a little sure, not sure	each category	6	means	intensity
+AP 43-5_2	Applied Psycholinguistics	https://doi.org/10.1017/S014271642200025X	2022	Quality of translation	outcome	0	NA	NA	5	orm, means	NA
+AP 43-6_2	Applied Psycholinguistics	https://doi.org/10.1017/S0142716422000352	2022	Attitude toward sexist language	predictor	1	Likert-type	each category	5	means	agreement
+AP 43-6_3	Applied Psycholinguistics	https://doi.org/10.1017/S0142716422000376	2022	Appropriateness of answer to question	outcome	0	(1) not appropriate at all, (7) extremely appropriate	endpoints	7	orm, means	NA
+AP 43-6_5	Applied Psycholinguistics	https://doi.org/10.1017/S014271642200039X	2022	Word familiarity	stimulus validation	0	(1) the word was unknown, (7) the word is familiar	endpoints	7	means	NA
+CLLT 11-1_3	Corpus Linguistics and Linguistic Theory	https://doi.org/10.1515/cllt-2014-0007	2015	Certainty rating	outcome	0	(1) not certain at all, (5) to completely certain	endpoints	5	orm	NA
+CLLT 11-2_2	Corpus Linguistics and Linguistic Theory	https://doi.org/10.1515/cllt-2014-0010	2015	Ratings of the polarity strength of adjectives	outcome	0	(1) very negative, (6) neutral, (11) very positive	endpoints and midpoint	11	means	NA
+CLLT 14-1_2	Corpus Linguistics and Linguistic Theory	https://doi.org/10.1515/cllt-2013-0054	2018	Attribute rating	outcome	0	Likert-type	NA	7	means	NA
+CLLT 14-2_1	Corpus Linguistics and Linguistic Theory	https://doi.org/10.1515/cllt-2016-0032	2018	Acceptability rating	outcome	0	1 to 7	endpoints	7	means	NA
+CLLT 15-1_5	Corpus Linguistics and Linguistic Theory	https://doi.org/10.1515/cllt-2016-0056	2019	Formality rating of confederates	outcome	0	(1) very informal, (6) very formal	endpoints	6	means	NA
+CLLT 16-3_6	Corpus Linguistics and Linguistic Theory	https://doi.org/10.1515/cllt-2018-0086	2020	Register analysis; rating of the degree to which a situational parameter (e.g. narrative parameter) applies to a text	outcome	0	1 to 6	numbers	6	means	NA
+CLLT 18-3_4	Corpus Linguistics and Linguistic Theory	https://doi.org/10.1515/cllt-2020-0023	2022	Semantic similarity rating	outcome	0	(1) no similarity in meaning, (5) very similar in meaning	endpoints	5	means	NA
+CLLT 8-2_1	Corpus Linguistics and Linguistic Theory	https://doi.org/10.1515/cllt-2012-0010	2012	Acceptability rating	outcome	0	1 to 7	numbers	7	means	NA
+CogL 23-2_1	Cognitive Linguistics	https://doi.org/10.1515/cog-2012-0008	2012	Degree to which different concepts possess certain properties	outcome	0	0 to 10	numbers	11	means	NA
+CogL 24-4_2	Cognitive Linguistics	https://doi.org/10.1515/cog-2013-0022	2013	Acceptability	outcome	0	(1) Perfect (completely acceptable), (7) Terrible (completely unacceptable	numbers	7	means	NA
+CogL 25-1_2	Cognitive Linguistics	https://doi.org/10.1515/cog-2013-0030	2014	Acceptability rating	outcome	0	(1) sentence 1, (3) equally good, (5) sentence 2	endpoints and midpoint	5	means	NA
+CogL 25-1_2	Cognitive Linguistics	https://doi.org/10.1515/cog-2013-0030	2014	Procrastination and conscientuousness self-rating	predictor	1	(1) very true, (3) neutral, (5) very untrue	endpoints and midpoint	5	means	NA
+CogL 25-1_4	Cognitive Linguistics	https://doi.org/10.1515/cog-2013-0032	2014	Likeliness ratings	outcome	0	(1) Yes, very likely, (2)  Yes, likely, (3) Neither/nor, (4) No, unlikely, (5) No, very unlikely	each category	5	means	probability
+CogL 25-2_2	Cognitive Linguistics	https://doi.org/10.1515/cog-2014-0015	2014	Attribute rating	outcome	0	(1) attribute 1, (7) attribute 2	endpoints	7	means	NA
+CogL 26-2_4	Cognitive Linguistics	https://doi.org/10.1515/cog-2014-0021	2015	Male/femal association of nouns	outcome	0	(1) clearly male, (2) rather male, (3) rather female, (4) clearly female	each category	4	means	intensity
+CogL 26-3_3	Cognitive Linguistics	https://doi.org/10.1515/cog-2015-0004	2015	Acceptability rating	outcome	0	(1) completely unacceptable, (5) completely acceptable	endpoints	5	means	NA
+CogL 26-3_3	Cognitive Linguistics	https://doi.org/10.1515/cog-2015-0004	2015	Plausibitity rating	predictor	0	(1) completely plausible, (5) completely implausible	endpoints	5	means	NA
+CogL 27-2_3	Cognitive Linguistics	https://doi.org/10.1515/cog-2015-0066	2016	Gesture rating	outcome	0	(1) not intense, (5) intense	endpoints	5	means	NA
+CogL 29-4_2	Cognitive Linguistics	https://doi.org/10.1515/cog-2017-0043	2018	How well does a statement describe yourself	outcome	0	(1) not at all, (7) extremely	endpoints	7	means	NA
+CogL 30-3_2	Cognitive Linguistics	https://doi.org/10.1515/cog-2017-0084	2019	Acceptability rating	outcome	0	(1) excellent, (2) acceptable, (3) impossible	each category	3	orm	quality
+CogL 30-4_4	Cognitive Linguistics	https://doi.org/10.1515/cog-2018-0135	2019	Acceptability rating	outcome	0	1 to 5	NA	5	orm, means	NA
+CogL 31-3_3	Cognitive Linguistics	https://doi.org/10.1515/cog-2018-0139	2020	Acceptability	outcome	0	(1) clearly incorrect, (4) clearly correct	endpoints	4	means	NA
+CogL 31-3_4	Cognitive Linguistics	https://doi.org/10.1515/cog-2018-0086	2020	Acceptability rating	outcome	0	(1) not at all acceptable, (5) very acceptable	endpoints	5	orm	NA
+CogL 31-4_3	Cognitive Linguistics	https://doi.org/10.1515/cog-2020-2040	2020	Acceptability rating	outcome	0	(1) unacceptable, (7) perfect	endpoints	7	orm, means	NA
+CogL 32-2_4	Cognitive Linguistics	https://doi.org/10.1515/cog-2020-0050	2021	Acceptability rating	outcome	0	(1) completely unacceptable, (7) perfectly acceptable	endpoints	7	means	NA
+CogL 32-3_1	Cognitive Linguistics	https://doi.org/10.1515/cog-2019-0100	2021	Acceptability rating	outcome	0	icons (smiley faces)	each category	5	means	NA
+CogL 32-3_1	Cognitive Linguistics	https://doi.org/10.1515/cog-2019-0100	2021	Semantic affectedness	predictor	0	1 to 8	endpoints	8	means	NA
+CogL 32-3_2	Cognitive Linguistics	https://doi.org/10.1515/cog-2020-0016	2021	Acceptability rating	outcome	0	1 to 7	NA	7	description_categorical	NA
+Corpora 10-3_2	Corpora	https://doi.org/10.3366/cor.2015.0079	2015	Ratings of abstract according to different criteria	outcome	0	1 to 5	numbers	5	means	NA
+Corpora 10-3_4	Corpora	https://doi.org/10.3366/cor.2015.0081	2015	Attribute rating	outcome	0	Likert-type	each category	5	description_categorical	agreement
+Corpora 13-1_3	Corpora	https://doi.org/10.3366/cor.2018.0136	2018	Evaluation of texts along different functional text dimensions	outcome	0	(1) none or hardly at all, (2) slightly, (3) somewhat or partly, (4) strongly or very much so	each category	4	means	intensity
+ELL 16-3_4	English Language and Linguistics	https://doi.org/10.1017/S1360674312000172	2012	Acceptability	outcome	0	1 to 10	numbers	10	means	NA
+ELL 23-1_2	English Language and Linguistics	https://doi.org/10.1017/S1360674317000284	2019	Semantic transparency ratings	outcome	0	(1) highly opaque, (6) highly transparent	each category	6	means	NA
+ELL 23-2_1	English Language and Linguistics	https://doi.org/10.1017/S1360674317000363	2019	Pronunciation rating	outcome	0	combination of two ratings: yes/no response and indication of certainty: very certain, reasonably certain, not certain at all	each category	6	means	probability
+ELL 26-1_3	English Language and Linguistics	https://doi.org/10.1017/S1360674321000022	2022	Likelihood of variant	outcome	0	only stars	stars	5	orm, means	NA
+ELL 26-1_7	English Language and Linguistics	https://doi.org/10.1017/S1360674321000162	2022	Acceptability rating	outcome	0	NA	NA	7	orm	NA
+ELL 26-4_1	English Language and Linguistics	https://doi.org/10.1017/S1360674321000290	2022	Identity rating	predictor	0	Likert-type	each category	7	description_categorical	agreement
+EWW 34-1_4	English World-Wide	https://doi.org/10.1075/eww.34.1.04van	2013	Pronunciation rating	outcome	0	(1) completely agree, (5) completely disagree	endpoints	5	means	NA
+EWW 34-2_3	English World-Wide	https://doi.org/10.1075/eww.34.2.03tan	2013	Perception of intelligence rating	outcome	0	(1) least agreeable, (5) most agreeable	endpoints	5	means	NA
+EWW 35-2_1	English World-Wide	https://doi.org/10.1075/eww.35.2.01bus	2014	Language attitide	outcome	0	Likert-type	each category	5	means	agreement
+EWW 36-1_2	English World-Wide	https://doi.org/10.1075/eww.36.1.04sch	2015	Perception of speaker	outcome	0	Semantic differential scale	endpoints	6	means	NA
+EWW 37-3_1	English World-Wide	https://doi.org/10.1075/eww.37.3.01chi	2016	Speaker ratings of frequency of usage of a from	outcome	0	(1) never, (2) very rarely, (3) rarely, (4) occasionally, (5) frequently, (6) very frequently	each category	6	binary_regression, means	frequency
+EWW 38-3_1	English World-Wide	https://doi.org/10.1075/eww.38.3.01cow	2017	Task and task partner rating	predictor	1	NA	NA	6	means	NA
+EWW 40-1_4	English World-Wide	https://doi.org/10.1075/eww.00023.sim	2019	Accentedness rating	outcome	0	(1) very slight, (11) very strong	endpoints	11	means	NA
+EWW 41-1_1	English World-Wide	https://doi.org/10.1075/eww.00038.bru	2020	Imageability rating	outcome	0	1 to 5	numbers	5	means	NA
+EWW 42-3_3	English World-Wide	https://doi.org/10.1075/eww.00072.car	2021	Acceptability rating	outcome	0	1 to 10	numbers	10	means	NA
+EWW 43-2_1	English World-Wide	https://doi.org/10.1075/eww.20010.sha	2022	Prestige and pleasantness rating	outcome	0	(1) very low, (7) very high	endpoints	7	means	NA
+IJLCR 7-1_5	International Journal of Learner Corpus Research	https://doi.org/10.1075/ijlcr.20004.jar	2021	Rating of the lexical diversity of texts	outcome	0	1 to 10; 5 serves as anchor, based on example text	midpoint	10	means	NA
+JoS 17-2_3	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12025	2013	Perception of speaker	stimulus validation	0	1 to 5	numbers	5	means	NA
+JoS 17-2_3	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12025	2013	Voice rating on social dimensions	stimulus validation	0	1 to 6	numbers	6	means	NA
+JoS 17-2_3	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12025	2013	Speaker perception	stimulus validation	0	(1) perfectly acceptable, (7) completely unacceptable	endpoints	7	means	NA
+JoS 18-3_1	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12084	2014	Speaker perception	outcome	0	Likert-type	each category	4	means	agreement
+JoS 18-3_1	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12084	2014	Speaker perception	outcome	0	(1) poor, (10) excellent	endpoints	10	means	NA
+JoS 18-5_3	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12094	2014	Frequency of language use	outcome	0	(1) always, (2) often, (3) sometimes, (4) rarely, (5) never	each category	5	description_categorical	frequency
+JoS 18-5_3	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12094	2014	Speaker perception	outcome	0	(1) very female, (7) very male	endpoints	7	means	NA
+JoS 20-3_2	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12183	2016	Attitude towards language revitalization	outcome	0	Likert-type	each category	5	description_categorical	agreement
+JoS 21-2_1	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12230	2017	Social perception	outcome	0	1 to 6	numbers	6	means	NA
+JoS 23-1_1	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12307	2019	Perception of speaker	outcome	0	Semantic differential scale	endpoints	7	means	NA
+JoS 23-4_1	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12368	2019	Perception of speaker	outcome	0	Semantic differential scale	endpoints	7	means	NA
+JoS 24-1_1	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12375	2020	Self-reported proficiency	predictor	0	(1) no competence, (5) total fluency	endpoints	5	means	NA
+JoS 25-4_1	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12477	2021	Perception of speaker	outcome	0	various attributes; e.g. (1) new, (7) traditional	endpoints	7	means	NA
+JoS 26-2_1	Journal of Sociolinguistics	https://doi.org/10.1111/josl.12538	2022	Accent rating	outcome	0	Likert-type	each category	6	means	agreement
+L 88-1_2	Language	https://doi.org/10.1353/lan.2012.0000	2012	Acceptability rating	outcome	0	icons (smiley faces)	each category	5	means	NA
+L 88-1_3	Language	https://doi.org/10.1353/lan.2012.0004	2012	Acceptability rating	outcome	0	(1) least acceptable, (4) most acceptable	endpoints	7	means	NA
+L 88-1_4	Language	https://doi.org/10.1353/lan.2012.0008	2012	Certainty rating	outcome	0	(1) not at all confident, (4) completely confident	endpoints	4	means	NA
+L 88-2_1	Language	https://doi.org/10.1353/lan.2012.0049	2012	preference rating for pronunciation variant	outcome	0	1 to 7	endpoints	7	means	NA
+L 91-1_3	Language	https://doi.org/10.1353/lan.2015.0012	2015	Acceptability rating	outcome	0	(1) totally acceptable, (7) totally unacceptable	endpoints	7	orm	NA
+L 91-3_3	Language	https://doi.org/10.1353/lan.2015.0035	2015	Acceptability rating	outcome	0	(1) completely unacceptable, (4) perfectly acceptable	endpoints	4	means	NA
+L 91-3_3	Language	https://doi.org/10.1353/lan.2015.0035	2015	Self-rated language proficiency	sample description	0	1 to 5	numbers	5	means	NA
+L 92-2_7	Language	https://doi.org/10.1353/lan.2016.0031	2016	Frequency rating	predictor	0	(1) unknown, (2) very infrequent, (3) infrequent, (4) frequent, (5) highly frequent	each category	5	means	frequency
+L 92-3_5	Language	https://doi.org/10.1353/lan.2016.0052	2016	Naturalness rating	outcome	0	NA	endpoints	7	means	frequency
+L 93-1_3	Language	https://doi.org/10.1353/lan.2017.0003	2017	Acceptability rating	outcome	0	(1) bad, (7) good	endpoints	7	means	NA
+L 94-3_5	Language	https://doi.org/10.1353/lan.2018.0038	2018	Perception of speaker	outcome	0	(1) educated, (5) uneducated	endpoints	5	means	NA
+L 95-1_5	Language	https://doi.org/10.1353/lan.2019.0016	2019	Acceptability rating	outcome	0	(1) unacceptable, (7) fully acceptable	endpoints	7	means	NA
+L 95-3_1	Language	https://doi.org/10.1353/lan.2019.0051	2019	Acceptability rating	outcome	0	(1) bad, (7) good	endpoints	7	means	NA
+L 95-3_2	Language	https://doi.org/10.1353/lan.2019.0052	2019	Acceptability rating	outcome	0	(1) I would never say that/you would never hear that here/it's very unnatural/it's bad (2) I probably wouldn't say that/you probably wouldn't hear that here/it's unnatural/it's weird (3) I might say that/you woudn't hear that a lot here/it's not very natural/it's a bit weird (4) I would probably say that/you would hear that occasionally here/it's quite natural/it's OKish (5) I would definitely say that/you would hear that a lot here/it's very natural/it's fine	each category	5	description_categorical	probability
+L 96-3_2	Language	https://doi.org/10.1353/lan.2020.0040	2020	Naturalness rating	outcome	0	(1) less natural, (5) more natural	endpoints	5	orm, means	NA
+L 98-1_6	Language	https://doi.org/10.1353/lan.2021.0088	2022	Acceptability rating	outcome	0	NA	NA	7	means	NA
+L 98-3_5	Language	https://doi.org/10.1353/lan.0.0271	2022	Truth judgment	outcome	0	(1) definitely true, (5) definitely not true	endpoints	5	means	NA
+L 98-3_5	Language	https://doi.org/10.1353/lan.0.0271	2022	Certainty rating	outcome	0	(1) certain that true, (4) not certain whether true/false, (7) certain that false	endpoints and midpoint	7	means	NA
+LI 45-4_6	Linguistic Inquiry	https://doi.org/10.1162/ling_a_00171	2014	Acceptability rating	outcome	0	(1) sounds awful, (5) sounds perfect	endpoints	5	means	NA
+LI 47-2_7	Linguistic Inquiry	https://doi.org/10.1162/ling_a_00215	2016	Acceptability rating	outcome	0	1 to 7	endpoints	7	means	NA
+LI 48-2_2	Linguistic Inquiry	https://doi.org/10.1162/ling_a_00243	2017	Naturalness rating	outcome	0	1 to 7	NA	7	means	NA
+LI 49-4_8	Linguistic Inquiry	https://doi.org/10.1162/ling_a_00293	2018	Acceptability rating	outcome	0	1 to 7	NA	7	means	NA
+LI 51-1_7	Linguistic Inquiry	https://doi.org/10.1162/ling_a_00333	2020	Naturalness rating	outcome	0	(1) perfectly natural, (5) only slightly unnatural	each category	5	description_categorical	intensity
+LI 51-3_2	Linguistic Inquiry	https://doi.org/10.1162/ling_a_00352	2020	Acceptability rating	outcome	0	1 to 7	NA	7	means	NA
+LI 51-3_7	Linguistic Inquiry	https://doi.org/10.1162/ling_a_00343	2020	Acceptability rating	outcome	0	(1) unnatural, (7) perfectly natural	endpoints	7	orm	NA
+LI 52-2_8	Linguistic Inquiry	https://doi.org/10.1162/ling_a_00382	2021	Naturalness rating	outcome	0	(1) not at all natural, (4) somewhat natural, (7) very natural	endpoints and midpoint	7	means	NA
+LI 53-2_6	Linguistic Inquiry	https://doi.org/10.1162/ling_a_00403	2022	Acceptability rating	outcome	0	NA	NA	4	means	NA
+LI 53-3_1	Linguistic Inquiry	https://doi.org/10.1162/ling_a_00414	2022	Naturalness rating	outcome	0	1 to 7	NA	7	orm	NA
+LI 53-3_4	Linguistic Inquiry	https://doi.org/10.1162/ling_a_00413	2022	Naturalness rating	outcome	0	(1) not natural at all, (7) perfectly natural	endpoints	7	orm, means	NA
+LI 53-3_8	Linguistic Inquiry	https://doi.org/10.1162/ling_a_00412	2022	Acceptability rating	outcome	0	1 to 5	NA	5	nonparametric, means	NA
+Ling 51-5_3	Linguistics	https://doi.org/10.1515/ling-2013-0033	2013	Self-rated proficiency	sample description	0	(1) rudimentary, (5) excellent; (1) seldom, (5) very often	endpoints	5	means	NA
+Ling 51-6_6	Linguistics	https://doi.org/10.1515/ling-2013-0050	2013	Naturalness rating	outcome	0	(1) very unnatural, (2) somewhat unnatural, (3) neither natural nor unnatural, (4) somewhat natural, (5) very natural	each category	5	means	intensity
+Ling 52-1_2	Linguistics	https://doi.org/10.1515/ling-2013-0056	2014	Similarity rating	outcome	0	(1) very different, (5) very similar	endpoints	5	means	NA
+Ling 53-2_1	Linguistics	https://doi.org/10.1515/ling-2015-0003	2015	Perception of speaker	outcome	0	(1) ugly, (5) beautiful	endpoints	5	means	NA
+Ling 54-6_3	Linguistics	https://doi.org/10.1515/ling-2016-0033	2016	Acceptability rating	outcome	0	(1) certainly incorrect, (2) possibly incorrect, (3) possibly correct, (4) certainly correct	each category	4	means	probability
+Ling 55-4_3	Linguistics	https://doi.org/10.1515/ling-2017-0011	2017	Perception of speaker	outcome	0	(1) calm, (5) excited	endpoints	5	means	NA
+Ling 55-5_5	Linguistics	https://doi.org/10.1515/ling-2017-0021	2017	Gender rating	outcome	0	(1) very likely to be spoken by men, (2) somewhat likely to be spoken by men, (3) equally likely to be spoken by men and women, (4) somewhat likely to be spoken by women, (5)  very likely to be spoken by women	each category	5	means	intensity
+Ling 55-5_6	Linguistics	https://doi.org/10.1515/ling-2017-0022	2017	Gender perception	outcome	0	e.g. (1) very intelligent, (6) not at all intelligent	endpoints	6	means	NA
+Ling 55-5_7	Linguistics	https://doi.org/10.1515/ling-2017-0023	2017	Perception of speaker	outcome	0	(1) no, not at all, (5) yes, very much	endpoints	5	orm, means	NA
+Ling 56-3_5	Linguistics	https://doi.org/10.1515/ling-2018-0006	2018	Foreign accent rating	outcome	0	(1) No foreign accent at all, (7) Very strong foreign accent	endpoints	7	means	NA
+Ling 57-2_3	Linguistics	https://doi.org/10.1515/ling-2019-0004	2019	Acceptability rating	outcome	0	(1) ungrammatical sentence, (2) odd but still grammatical, (3) grammatical sentence	each category	3	NA	NA
+Ling 57-3_1	Linguistics	https://doi.org/10.1515/ling-2019-0013	2019	Imageability rating	stimulus validation	0	1 to 6	NA	5	means	NA
+Ling 57-3_5	Linguistics	https://doi.org/10.1515/ling-2019-0010	2019	Acceptability rating	outcome	0	1 to 5	NA	5	means	NA
+Ling 57-5_6	Linguistics	https://doi.org/10.1515/ling-2019-0019	2019	Preference for variant	outcome	0	(1) variant A, (2) both, (3) variant B	each category	3	means	NA
+Ling 57-6_4	Linguistics	https://doi.org/10.1515/ling-2019-0031	2019	Acceptability rating	outcome	0	1 to 5	NA	5	means	NA
+Ling 58-1_2	Linguistics	https://doi.org/10.1515/ling-2018-0036	2020	Familiarity rating	outcome	0	1 to 7	NA	7	means	NA
+Ling 59-1_4	Linguistics	https://doi.org/10.1515/ling-2020-0263	2021	Accentedness rating	outcome	0	(1) very strong accent: definitely non-native, (5) no foreigen accent at all: definitely native	endpoints	5	means	NA
+Ling 59-2_2	Linguistics	https://doi.org/10.1515/ling-2021-0007	2021	Acceptability rating	outcome	0	NA	NA	7	means	NA
+Ling 59-2_5	Linguistics	https://doi.org/10.1515/ling-2021-0019	2021	Likelihood of event denoted in the sentence	stimulus validation	0	(1) very unlikely, (7) very likely	endpoints	7	description_categorical	NA
+Ling 59-3_3	Linguistics	https://doi.org/10.1515/ling-2021-0057	2021	Familiarity rating	predictor	0	(1) never touched it, (4) so so, (7) Pokemon is my life	endpoints and midpoint	7	description_categorical	NA
+Ling 60-2_3	Linguistics	https://doi.org/10.1515/ling-2020-0110	2022	Acceptability rating	outcome	0	(1) totally unacceptable, (7) totally acceptable	endpoints	7	means	NA
+Ling 60-4_2	Linguistics	https://doi.org/10.1515/ling-2020-0237	2022	Perception of loanword status	outcome	0	(1) feels like a purely English word, (5) feels like a purely Dutch word	endpoints	5	means	NA
+Ling 60-5_5	Linguistics	https://doi.org/10.1515/ling-2020-0248	2022	Acceptability rating	outcome	0	1 to 6	NA	6	means	NA
+Ling 60-6_3	Linguistics	https://doi.org/10.1515/ling-2020-0276	2022	Acceptability rating	outcome	0	icons (smiley faces)	each category	7	orm	NA
+LL 62-2_3	Language Learning	https://doi.org/10.1111/j.1467-9922.2011.00629.x	2012	Pragmatic judgment task	outcome	0	(1) pragmatically appropriate and grammatically accurate, (2) pragmatically inappropriate and grammatically accurate, (3) pragmatically appropriate and grammatically inaccurate	each category	3	nonparametric, means	NA
+LL 62-2_8	Language Learning	https://doi.org/10.1111/j.1467-9922.2011.00632.x	2012	Student motivation	correlational variable	0	Likert-type	each category	6	means	agreement
+LL 62-2_8	Language Learning	https://doi.org/10.1111/j.1467-9922.2011.00632.x	2012	Teacher motivation rating; Student motivation	correlational variable	0	Semantic differential scale; (1) not at all, (6) very much	endpoints	6	means	NA
+LL 62-2_9	Language Learning	https://doi.org/10.1111/j.1467-9922.2011.00639.x	2012	Intelligibility rating	correlational variable	0	(1) very good English /r/, (9) very poor English /r/	endpoints	9	means	NA
+LL 62-3_5	Language Learning	https://doi.org/10.1111/j.1467-9922.2011.00650.x	2012	Quality of student writing	outcome	0	0 to 10	numbers	11	means	NA
+LL 62-4_1	Language Learning	https://doi.org/10.1111/j.1467-9922.2012.00719.x	2012	Motivation	correlational variable	0	Likert-type	each category	6	means	agreement
+LL 62-4_1	Language Learning	https://doi.org/10.1111/j.1467-9922.2012.00719.x	2012	Motivation	correlational variable	0	(1) definitely not, (6) definitely yes	NA	6	means	NA
+LL 62-4_8	Language Learning	https://doi.org/10.1111/j.1467-9922.2012.00723.x	2012	Potential to cause concern	correlational variable	0	(1) absence of conflict or problems, (5) major source of conflict or problems	endpoints	5	means	NA
+LL 62-4_8	Language Learning	https://doi.org/10.1111/j.1467-9922.2012.00723.x	2012	Identification with language community; Attribute rating	correlational variable	0	(1) not at all like a Francophone, (7) very much like a Francophone; Semantic differential scale	endpoints	7	means	NA
+LL 63-1_4	Language Learning	https://doi.org/10.1111/j.1467-9922.2012.00717.x	2013	Motivation	outcome	0	NA	endpoints	7	means	NA
+LL 63-2_1	Language Learning	https://doi.org/10.1111/lang.12000	2013	Fluency rating	outcome	0	(1) easy to understand, (9) extremely difficult to understand	endpoints	9	means	NA
+LL 63-2_5	Language Learning	https://doi.org/10.1111/lang.12009	2013	Self-construal, ideal self	correlational variable	0	Likert-type	each category	6	means	agreement
+LL 63-3_3	Language Learning	https://doi.org/10.1111/lang.12005	2013	Motivation	correlational variable	1	Likert-type	each category	5	means	agreement
+LL 63-4_5	Language Learning	https://doi.org/10.1111/lang.12026	2013	Self-rated proficiency	sample description	0	1 to 5	NA	5	means	NA
+LL 63-4_8	Language Learning	https://doi.org/10.1111/lang.12025	2013	Anxiety	predictor	1	Likert-type	each category	5	means	agreement
+LL 64-1_1	Language Learning	https://doi.org/10.1111/lang.12033	2014	Difficulty of topic	sample description	0	NA	NA	5	means	NA
+LL 64-1_2	Language Learning	https://doi.org/10.1111/lang.12031	2014	Personality measure	correlational variable	1	Likert-type	each category	5	means	agreement
+LL 64-2_6	Language Learning	https://doi.org/10.1111/lang.12052	2014	Use of learning strategies	predictor	1	Likert-type	each category	5	means	agreement
+LL 64-3_3	Language Learning	https://doi.org/10.1111/lang.12065	2014	Motivation	correlational variable	1	Likert-type	each category	5	means	agreement
+LL 64-3_4	Language Learning	https://doi.org/10.1111/lang.12053	2014	Accentedness, comprehensibility fluency ratings	outcome	0	(1) extremely fluent, (9) extremely disfluent	endpoints	9	means	NA
+LL 64-3_5	Language Learning	https://doi.org/10.1111/lang.12054	2014	Language awareness rating	outcome	0	(1) yes, (2) some, (3) no	each category	3	description_categorical	NA
+LL 64-3_7	Language Learning	https://doi.org/10.1111/lang.12061	2014	Task complexity	sample description	0	1 to 5	numbers	5	means	NA
+LL 64-3_9	Language Learning	https://doi.org/10.1111/lang.12066	2014	Sentence complexity	outcome	0	(1) easy to understand, (7) hard to understand	endpoints	7	means	NA
+LL 64-4_1	Language Learning	https://doi.org/10.1111/lang.12082	2014	Accentedness, comprehensibility fluency ratings	outcome	0	(1) extremely fluent, (9) extremely disfluent	endpoints	9	means	NA
+LL 65-2_6	Language Learning	https://doi.org/10.1111/lang.12105	2015	Metacognition	correlational variable	1	Likert-type	each category	6	means	agreement
+LL 65-3_1	Language Learning	https://doi.org/10.1111/lang.12126	2015	Accentedness rating	outcome	0	(1) very strong foreign accent, (9) no foreigen accent	endpoints	9	means	NA
+LL 65-3_3	Language Learning	https://doi.org/10.1111/lang.12125	2015	Self-rated proficiency	predictor	0	(1) very poor, (2) weak, (3) ok, (4) good, (5) excellent	each category	5	means	quality
+LL 65-3_3	Language Learning	https://doi.org/10.1111/lang.12125	2015	frequency rating	outcome	0	(1) very uncommon, (6) very common	endpoints	6	means	NA
+LL 65-3_7	Language Learning	https://doi.org/10.1111/lang.12123	2015	Iconicity rating	stimulus validation	0	(1) highly arbitrary, (7) highly iconic	endpoints	7	means	NA
+LL 66-1_3	Language Learning	https://doi.org/10.1111/lang.12149	2016	Acceptability rating	outcome	0	(1) completely acceptable, (5) completely unacceptable	endpoints	5	means	NA
+LL 66-1_4	Language Learning	https://doi.org/10.1111/lang.12140	2016	Motivation	correlational variable	0	Likert-type	each category	6	means	agreement
+LL 66-2_5	Language Learning	https://doi.org/10.1111/lang.12162	2016	Contact quality	correlational variable	0	(1) low, (2) medium, (3) high	each category	3	means	NA
+LL 66-2_6	Language Learning	https://doi.org/10.1111/lang.12157	2016	Self-rated proficiency	sample description	0	(1) beginner, (2) intermediate, (3) advanced, (4) near-native	each category	4	means	NA
+LL 66-2_6	Language Learning	https://doi.org/10.1111/lang.12157	2016	Evaluation of learner productions	outcome	0	0 to 6; defined categories	each category	7	means	NA
+LL 66-4_1	Language Learning	https://doi.org/10.1111/lang.12161	2016	Motivation	correlational variable	1	Likert-type	endpoints	9	means	NA
+LL 67-2_5	Language Learning	https://doi.org/10.1111/lang.12228	2017	Cognitive load	stimulus validation	0	Semantic differential scale	endpoints	9	means	NA
+LL 67-3_3	Language Learning	https://doi.org/10.1111/lang.12238	2017	Acceptability rating	outcome	0	(1) completely unacceptable, (2) very poor English, (3) poor English, (4) almost correct English, (5) completely acceptable	each category	5	means	NA
+LL 68-1_3	Language Learning	https://doi.org/10.1111/lang.12263	2018	Pronunciation learning strategies	correlational variable	1	Likert-type	each category	5	means	agreement
+LL 68-1_4	Language Learning	https://doi.org/10.1111/lang.12270	2018	Accentedness rating	outcome	0	(1) little accent, (5) heavy accent	endpoints	5	means	NA
+LL 68-1_9	Language Learning	https://doi.org/10.1111/lang.12277	2018	English use daily	sample description	0	NA	NA	7	means	NA
+LL 68-4_5	Language Learning	https://doi.org/10.1111/lang.12299	2018	Confidence rating	predictor	0	(1) guess, (2) intuitive, (3) confident	each category	3	description_categorical	NA
+LL 68-4_5	Language Learning	https://doi.org/10.1111/lang.12299	2018	Awareness of rules	predictor	0	1 to 7	NA	7	means	NA
+LL 69-1_4	Language Learning	https://doi.org/10.1111/lang.12316	2019	Accentedness rating	outcome	0	(1) native accent, (6) strong foreign accent	endpoints	6	means	NA
+LL 69-2_4	Language Learning	https://doi.org/10.1111/lang.12336	2019	Familiarity rating	stimulus validation	0	(1) I have never seen or heard this word and I don’t know its meaning, (2) I might have seen or heard this word, but I don’t know its meaning, (3) I’m pretty sure I have seen or heard this word, but I don’t know its meaning, (4) I have seen or heard this word before, but I don’t know its meaning, (5) I am sure I have seen or heard this word before, but I have only a vague idea of its meaning, (6) I am sure I have seen or heard this word before, and I think I know the meaning, but I’m not sure it’s correct, (7) I know the word and am confident of its meaning	each category	7	means	NA
+LL 69-3_6	Language Learning	https://doi.org/10.1111/lang.12351	2019	English language use	predictor	1	(1) never, (2) once, (3) twice, (4) three times or more	each category	4	means	NA
+LL 69-3_6	Language Learning	https://doi.org/10.1111/lang.12351	2019	English language use	predictor	1	(1) never, (2) a few times a year, (3) about once every month, (4) a few times a month, (5) a few times a week	each category	5	means	NA
+LL 69-4_5	Language Learning	https://doi.org/10.1111/lang.12364	2019	Frequency of out-of-class activities	predictor	1	(1) (almost) never, (2) once a month, (3) once a week, (4) a few times per week, (5) every day	each category	5	means	NA
+LL 70-1_10	Language Learning	https://doi.org/10.1111/lang.12374	2020	Cognitive load	predictor	0	Semantic differential scale	endpoints	9	means	NA
+LL 70-1_3	Language Learning	https://doi.org/10.1111/lang.12371	2020	Motivation	outcome	1	Likert-type	NA	7	means	NA
+LL 70-1_9	Language Learning	https://doi.org/10.1111/lang.12349	2020	Vocabulary knowledge	outcome	0	(1) I don’t know this word, (2) I’ve seen it or heard it but don’t know what it means, (3) I understand the word, but I couldn’t use it in conversation or in writing, (4) I understand the word and I can use it in conversation or in writing	each category	4	description_categorical	NA
+LL 70-2_15	Language Learning	https://doi.org/10.1111/lang.12382	2020	Affective state	outcome	1	(1) not at all/very litte, (2) somewhat, (3) a lot	each category	3	means	intensity
+LL 70-2_15	Language Learning	https://doi.org/10.1111/lang.12382	2020	Affective state	outcome	1	(1) not true at all, (2) rather not true, (3) somewhat true, (4) very much true	each category	4	means	intensity
+LL 70-2_4	Language Learning	https://doi.org/10.1111/lang.12401	2020	Certainty rating	outcome	0	(1) uncertain, (4) certain	endpoints	4	means	NA
+LL 70-2_7	Language Learning	https://doi.org/10.1111/lang.12397	2020	Semantic relatedness	outcome	0	(1) completely unrelated, (7) strongly related	endpoints	7	means	NA
+LL 70-2_9	Language Learning	https://doi.org/10.1111/lang.12400	2020	Self-rated proficiency	sample description	0	NA	NA	7	NA	NA
+LL 70-3_3	Language Learning	https://doi.org/10.1111/lang.12390	2020	Confidence rating	outcome	0	(1) I'm guessing, (7) I know for sure	endpoints	7	NA	NA
+LL 70-3_6	Language Learning	https://doi.org/10.1111/lang.12396	2020	Second language contact	predictor	1	(1) never, (2) once a month or less, (3) a few times a month, (4) weekly, (5) a few times a week, (6) daily	each category	6	means	NA
+LL 70-3_6	Language Learning	https://doi.org/10.1111/lang.12396	2020	Interest in learning target language	predictor	1	(1) not interested/not important, (6) strongly interested/very important	endpoints	6	means	NA
+LL 71-1_5	Language Learning	https://doi.org/10.1111/lang.12430	2021	Pseudoword validation	stimulus validation	0	NA	NA	6	means	NA
+LL 71-1_5	Language Learning	https://doi.org/10.1111/lang.12430	2021	Self-rated proficiency	sample description	0	NA	NA	10	means	NA
+LL 71-2_3	Language Learning	https://doi.org/10.1111/lang.12442	2021	Foreign accent rating	predictor	0	(1) not accented at all/nativelike, (7) extremely accented	endpoints	7	means	NA
+LL 71-2_7	Language Learning	https://doi.org/10.1111/lang.12443	2021	Learner variables	correlational variable	1	NA	NA	6	means	NA
+LL 71-3_1	Language Learning	https://doi.org/10.1111/lang.12451	2021	Pronunciation rating	predictor	0	(1) perfectly native-like, (9) extremely accented	endpoints	9	means	NA
+LL 72-1_1	Language Learning	https://doi.org/10.1111/lang.12424	2022	Familiarity rating	correlational variable	0	(1) nothing, (4) a lot	each category	4	means	NA
+LL 72-1_1	Language Learning	https://doi.org/10.1111/lang.12424	2022	Metacognitive awareness	correlational variable	1	Likert-type	each category	6	means	agreement
+LL 72-1_2	Language Learning	https://doi.org/10.1111/lang.12469	2022	Task difficulty	stimulus validation	0	Likert-type	NA	5	means	NA
+LL 72-1_2	Language Learning	https://doi.org/10.1111/lang.12469	2022	Writing quality	predictor	0	Defined rating categories	each category	9	means	NA
+LL 72-2_2	Language Learning	https://doi.org/10.1111/lang.12492	2022	Certainty rating	sample description	0	(1) not confident at all, (2) somewhat confident, (3) very confident, (4) absolutely certain	each category	4	NA	intensity
+LL 72-2_3	Language Learning	https://doi.org/10.1111/lang.12481	2022	Certainty rating	outcome	0	(1) I am sure that it is incorrect, (11) I am sure that it is correct	endpoints	11	means	NA
+LL 72-3_6	Language Learning	https://doi.org/10.1111/lang.12497	2022	Familiarity, experience rating	sample description	0	(1) not familiar at all, (2) mostly unfamiliar, (3) somewhat familiar, (4) quite familialr, (5) highly familiar	each category	5	NA	intensity
+LL 72-3_6	Language Learning	https://doi.org/10.1111/lang.12497	2022	Accentedness rating	outcome	0	(1) severe accent, (9) almost no accent	endpoints	9	means	NA
+LL 72-4_2	Language Learning	https://doi.org/10.1111/lang.12502	2022	Image rating	stimulus validation	0	(1) visually simple, (5) visually complex	endpoints	5	means	NA
+LVC 24-1_5	Language Variation and Change	https://doi.org/10.1017/S0954394512000026	2012	Attitudes	predictor	1	Likert-type	NA	7	means	NA
+LVC 26-2_2	Language Variation and Change	https://doi.org/10.1017/S0954394514000088	2014	Speaker perception	outcome	0	Semantic differential	endpoints	6	means	NA
+LVC 26-3_5	Language Variation and Change	https://doi.org/10.1017/S0954394514000155	2014	Social evaluation	outcome	1	(1) I do not agree at all, (6) I absolutely agree	endpoints	6	means	NA
+LVC 27-3_3	Language Variation and Change	https://doi.org/10.1017/S0954394515000149	2015	Regional identity	sample description	1	(1) rarely, (5) very often	endpoints	5	means	NA
+LVC 27-3_3	Language Variation and Change	https://doi.org/10.1017/S0954394515000149	2015	Rating of professionalism	outcome	0	(1) perfectly professional, (7) try some other line of work	endpoints	7	means	NA
+LVC 30-2_5	Language Variation and Change	https://doi.org/10.1017/S095439451800008X	2018	Naturalness of recording	stimulus validation	0	(1) sounds like a human, (10) sounds like a computer, or manipulated	endpoints	10	means	NA
+LVC 32-2_3	Language Variation and Change	https://doi.org/10.1017/S0954394520000095	2020	Perception of speaker	outcome	0	(1) not feminine, (7) feminine	endpoints	7	means	NA
+LVC 33-2_2	Language Variation and Change	https://doi.org/10.1017/S0954394521000089	2021	Perception of speaker	outcome	0	(1) extremely generous, (4) neutral, (7) extremely greedy	endpoints and midpoint	7	means	NA
+LVC 34-3_4	Language Variation and Change	https://doi.org/10.1017/S0954394522000175	2022	Accentedness rating	outcome	0	(1) no accent, (9) very strong accent	endpoints	9	means	NA
+NLLT 30-1_2	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-011-9141-5	2012	Acceptability rating	outcome	0	NA	NA	5	NA	NA
+NLLT 31-1_3	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-012-9183-3	2013	Acceptability rating	outcome	0	(1) completely unacceptable, (7) completely acceptable	endpoints	7	means	NA
+NLLT 31-1_6	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-012-9181-5	2013	Acceptability rating	outcome	0	NA	NA	7	description_categorical	NA
+NLLT 34-1_9	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-015-9286-8	2016	Acceptability rating	outcome	0	(1) least acceptable, (7) most acceptable	endpoints	7	means	NA
+NLLT 34-3_6	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-015-9314-8	2016	Naturalness rating	outcome	0	1 to 7	NA	7	orm	NA
+NLLT 34-4_9	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-015-9326-4	2016	Acceptability rating	outcome	0	(1) grammatical, (5) ungrammatical	endpoints	5	means	NA
+NLLT 36-2_7	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-017-9378-8	2018	Rating of fit between guesture and meaning	outcome	0	(1) worst, (11) best	endpoints	11	means	NA
+NLLT 36-3_3	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-017-9390-z	2018	Acceptability rating	outcome	0	(1) bad, (7) good	endpoints	7	means	NA
+NLLT 37-1_3	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-018-9404-5	2019	Acceptability formality	outcome	0	(1) bad, (11) good	endpoints	11	means	NA
+NLLT 37-3_3	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-018-9427-y	2019	Naturalness rating	outcome	0	(1) not at all natural, (2) not very natural, (3) somewhat natural, (4) very natural, (5) completely natural	each category	5	means	intensity
+NLLT 37-4_7	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-018-9433-0	2019	Acceptability rating	outcome	0	(1) unnatural, (7) natural	endpoints	7	means	NA
+NLLT 37-4_8	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-018-9435-y	2019	Naturalness rating	outcome	0	(1) completely natural, (2) somewhat natural, (3) undecidable, (4) somewhat unnatural, (5) completely unnatural	each category	5	means	intensity
+NLLT 38-2_4	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-019-09452-z	2020	Acceptability rating	outcome	0	1 to 5	numbers	5	means	NA
+NLLT 38-2_7	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-019-09449-8	2020	Naturalness rating	outcome	0	(1) completely unnatural, (7) completely natural	endpoints	7	means	NA
+NLLT 38-4_7	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-019-09462-x	2020	Certainty rating	outcome	0	(1) he's not sure, (5) he's very sure	endpoints	5	orm, means	NA
+NLLT 39-1_6	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-020-09473-z	2021	Acceptability and strength of inference	outcome	0	(1) no inference, (7) strongest inference	endpoints	7	means	NA
+NLLT 40-1_2	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-020-09501-y	2022	Acceptability rating	outcome	0	(1) bad, (5) perfect	endpoints	5	means	NA
+NLLT 40-2_1	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-021-09515-0	2022	Acceptability rating	outcome	0	NA	NA	7	binary_regression	NA
+NLLT 40-2_5	Natural Language and Linguistic Theory	https://doi.org/10.1007/s11049-021-09513-2	2022	Acceptability rating	outcome	0	(1) least acceptable, (5) most acceptable#	endpoints	5	means	NA
+SSLA 34-1_1	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263111000489	2012	Functional adequacy of utterances	correlational variable	0	descriptors	each category	6	means	NA
+SSLA 34-3_5	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263112000150	2012	Speaking and listenting ability	outcome	0	(1) extremely poor, (9) expremely proficient	endpoints	9	means	NA
+SSLA 34-4_1	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263112000332	2012	Acceptability rating	outcome	0	(1) completely acceptable, (2) likely to be acceptable, (3) possibly acceptable, (4) I don’t know, (5) possibly unacceptable,  (6) likely to be unacceptable, (7) completely unacceptable	each category	7	means	intensity
+SSLA 35-1_2	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263112000678	2013	Perceived task difficulty	outcome	0	NA	NA	5	means	NA
+SSLA 35-1_4	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263112000691	2013	Acceptability rating	outcome	0	(1) odd, (2) slightly odd, (4) more or less fine, (5) fine	each category	5	means	NA
+SSLA 35-2_3	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263112000873	2013	Self-rated proficiency	sample description	0	NA	NA	7	means	NA
+SSLA 35-4_1	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263113000387	2013	Naturalness rating	outcome	0	(1) totally unnatural, (5) totally natural	endpoints	5	means	NA
+SSLA 35-4_4	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263113000429	2013	Task complexity	outcome	0	Likert-type	each category	6	means	agreement
+SSLA 36-1_4	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263113000624	2014	Usage of English	correlational variable	0	(1) not at all, (2) not very, (3) so-so, (4) quite, (5) very	each category	5	means	intensity
+SSLA 36-1_4	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263113000624	2014	Usage of English	correlational variable	0	(1) almost none, (2) a few, (3) about half, (4) most, (5) nearly all	each category	5	means	quantifiers
+SSLA 36-2_1	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263114000047	2014	Category goodness	outcome	0	(1) very bad example, (7) very good example	endpoints	7	means	NA
+SSLA 36-3_5	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263113000600	2014	Self-rated proficiency	sample description	0	NA	NA	7	means	NA
+SSLA 36-4_1	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263113000727	2014	Match between picture and sentence	stimulus validation	0	(1) Does not match the sentence at all, (5) Very much matches the sentence	NA	5	means	NA
+SSLA 37-1_1	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263114000321	2015	Acceptability rating	outcome	0	(1) completely ungrammatical, (5) completely grammatical	endpoints	5	means	NA
+SSLA 37-4_2	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263114000576	2015	Foreign accent rating	outcome	0	(1) strong foreign accent, (9) native English speaker	endpoints	9	means	NA
+SSLA 38-1_2	Studies in Second Language Acquisition	https://doi.org/10.1017/S027226311400059X	2016	Acceptability rating	outcome	0	(1) It’s bad, (4) It’s fine	endpoints	4	NA	NA
+SSLA 38-2_1	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263115000388	2016	Self-rated proficiency	sample description	0	(1) beginner, (5) advanced	NA	5	means	NA
+SSLA 38-2_5	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263116000036	2016	Confidence rating	sample description	0	(1) not at all confident, (2) somewhat confident, (3) quite  confident, (4) extremely confident	each category	4	NA	intensity
+SSLA 38-3_2	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263115000492	2016	Familiarity rating	outcome	0	NA	NA	7	means	NA
+SSLA 38-4_2	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263115000443	2016	Pronunciation rating	outcome	0	(1) Silence, unintelligible content, or only one content word, (2) Half or less of content repeated; important content is left out;  meaning may be unrelated or opposed to stimulus, (3) More than half of content preserved; slight changes in content that  make content inexact, incomplete, or ambiguous, (4) Meaning preserved; use of synonyms or (grammatical or ungrammatical) changes in grammar that do not affect meaning, (5) Perfect repetition	each category	5	means	NA
+SSLA 38-4_2	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263115000443	2016	Self-rated proficiency	correlational variable	0	(1) lowest proficiency (very poor), (5) highest proficiency (nativelike)	NA	5	means	NA
+SSLA 38-4_4	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263115000339	2016	Perceived task difficulty	outcome	0	NA	NA	9	means	NA
+SSLA 39-3_2	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263115000510	2017	Self-rated proficiency	sample description	0	(1) Beginner, (2) Intermediate, (3) High-intermediate, (4) Advanced, (5) Near-native, (6) Native	each category	6	means	NA
+SSLA 39-4_4	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263116000243	2017	Motivation	outcome	0	(1) strongly disagree/not at all, (6) strongly agree/very much	endpoints	6	means	NA
+SSLA 39-4_5	Studies in Second Language Acquisition	https://doi.org/10.1017/S027226311700002X	2017	Confidence rating	sample description	0	(1) completely guessing, (5) completely sure	endpoints	5	NA	NA
+SSLA 39-4_6	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263115000376	2017	Semantic relatedness ratings	outcome	0	(1) very unrelated, (2) somewhat unrelated, (3) I don’t know, (4) somewhat related, (5) very related	each category	5	means	intensity
+SSLA 40-1_4	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263117000018	2018	Acceptability rating	outcome	0	(1) I’m sure this is wrong, (2) I think this is wrong, (4) I think this is right, (5) I’m sure this is right	each category	5	description_categorical	NA
+SSLA 40-1_8	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263116000450	2018	Language use English vs. Chinese	sample description	0	(1) English only, (2) mostly Chinese, (3) half Chinese/half English, (4) mostly Chinese, (5) Chinese only	each category	5	NA	NA
+SSLA 40-3_6	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263117000304	2018	Rating of attitudes	outcome	0	Likert-type	each category	5	means	agreement
+SSLA 40-4_3	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263118000165	2018	Familiarity with topic	correlational variable	0	Likert-type	each category	7	means	agreement
+SSLA 40-4_4	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263118000049	2018	Acceptability rating	outcome	0	(1) very strange, (5) very natural	endpoints	5	means	NA
+SSLA 41-1_7	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263117000377	2019	Goodness rating	outcome	0	(1) very good, (5) very bad	endpoints	5	means	NA
+SSLA 41-2_3	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263118000153	2019	Motivation	correlational variable	1	(1) never true of me, (5) always true of me	endpoints	5	means	NA
+SSLA 41-2_3	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263118000153	2019	Motivation	correlational variable	1	Likert-type	each category	6	means	agreement
+SSLA 41-2_6	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263118000244	2019	Familiarity with accent	sample description	0	(1) not at all, (9) very much	endpoints	9	means	NA
+SSLA 41-4_1	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263119000044	2019	Fluency and accentedness rating	outcome	0	(1) very disfluent/very strong foreign accent, (9) very fluent/no foreign accent	endpoints	9	means	NA
+SSLA 41-4_8	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263118000189	2019	Motivation	correlational variable	1	Likert-type	each category	6	means	agreement
+SSLA 41-4_8	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263118000189	2019	Psychological needs	correlational variable	1	(1) not at all true, (7) very true	endpoints	7	means	NA
+SSLA 41-5_9	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263119000226	2019	Comprehensibility	outcome	0	(1) difficult to understand, (9) easy to understand	endpoints	9	means	NA
+SSLA 42-1_5	Studies in Second Language Acquisition	https://doi.org/10.1017/S027226311900041X	2020	Affective rating	stimulus validation	0	manikins; SAM (Self Assessment Manikin) scale by Bradley and Lang 1994	each category	9	means	NA
+SSLA 42-1_6	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263119000421	2020	Comprehensibility	outcome	0	(1) hard to understand, (9) easy to understand	endpoints	9	means	NA
+SSLA 42-2_3	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263119000603	2020	Liking of TV series	predictor	0	(1) not at all, (5) a lot	endpoints	5	means	NA
+SSLA 42-3_5	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263120000029	2020	Viewing habits	sample description	0	(1) never; (2) 1–3 times in a year; (3) once a month; (4) every week; (5) every day	endpoints	5	means	NA
+SSLA 42-3_5	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263120000029	2020	Self-rated proficiency	sample description	1	(1) no knowledge of Spanish, (9) proficient knowledge of Spanish	endpoints	9	means	NA
+SSLA 42-4_5	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263119000718	2020	Metacognitive knowledge	correlational variable	1	Likert-type	each category	6	means	agreement
+SSLA 42-4_7	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263119000743	2020	Naturalness rating	outcome	0	(1) very unnatural, (4) very natural	endpoints	4	means	NA
+SSLA 42-5_1	Studies in Second Language Acquisition	https://doi.org/10.1017/S027226312000008X	2020	Pronunciation rating	outcome	0	(1) Zero response, no response, or one-word response, (2) Repetition less than 50% accurate, (3) Major syntactic and/or lexical adjustments, changing the meaning of the sentence, (4) Minor syntactic adjustments that do not change the meaning of the sentence and/or contain a minor pronunciation flaw, (5) Perfect repetition	each category	5	means	NA
+SSLA 42-5_3	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263120000157	2020	Nonce words	stimulus validation	0	(1) this could never be a Polish word, (5) this could very well be a Polish word	endpoints	5	means	NA
+SSLA 42-5_4	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263120000054	2020	Naturalness rating	stimulus validation	0	(1) very unnatural, (5) very natural	endpoints	5	means	NA
+SSLA 42-5_5	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263120000133	2020	Self-rated proficiency	sample description	0	(1) Beginner, (2) Intermediate, (3) High-intermediate, (4) Advanced, (5) Near-native, (6) Native	each category	6	means	NA
+SSLA 43-1_2	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263120000261	2021	Self-rated proficiency	sample description	0	NA	endpoints	10	means	NA
+SSLA 43-1_6	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263120000418	2021	Self-rated proficiency	sample description	0	(1) beginner, (4) fluent	endpoints	4	means	NA
+SSLA 43-2_1	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263120000376	2021	Motivation	sample description	0	NA	NA	7	means	NA
+SSLA 43-2_6	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263120000480	2021	Language mindset	correlational variable	1	Likert-type	each category	6	means	agreement
+SSLA 43-4_7	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263120000674	2021	Emotional valence, arousal of words	stimulus validation	0	(1) very negative, (5) neutral, (9) very positive	endpoints and midpoint	9	means	NA
+SSLA 43-5_1	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263121000036	2021	Rating of gap-filling task	outcome	0	two raters, each rating: 0, 0.5, 1; then combined to yield five distinct ratings	each category	5	orm	NA
+SSLA 43-5_3	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263120000315	2021	Concreteness rating	predictor	0	(1) near zero concrete, (5) extremely concrete	endpoints	5	means	NA
+SSLA 43-5_3	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263120000315	2021	Valence ratings	predictor	0	(1) totally NEGATIVE, (5) NEUTRAL, (9) totally POSITIVE	endpoints and midpoint	9	means	NA
+SSLA 43-5_5	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263121000334	2021	Self-rated proficiency	sample description	1	(1) low-beginner, (2) mid-beginner, (3) high-beginner, (4) low-intermediate, (5) mid-intermediate, (6) high-intermediate, (7) low-advanced, (8) mid-advanced, (9) high-advanced	each category	9	means	NA
+SSLA 44-1_4	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263121000097	2022	Exposure to English	outcome	0	(1) no exposure; (2) 0–30 minutes; (3) 30 minutes–1 hour; (4) 1 hour–1 hour 30 minutes; (5) 1 hour 30 minutes–2 hours; (6) more than 2 hours	each category	6	means	NA
+SSLA 44-1_7	Studies in Second Language Acquisition	https://doi.org/10.1017/S027226312100005X	2022	Psychological needs, motivation	correlational variable	1	Likert-type	each category	5	means	agreement
+SSLA 44-2_8	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263121000310	2022	Task difficulty	stimulus validation	0	(1) very easy/not at all, (9) very difficult/intensively	endpoints	9	means	NA
+SSLA 44-3_2	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263121000413	2022	Motivation	correlational variable	1	(1) strongly disagree/not at all, (6) strongly agree/very much	endpoints	6	means	NA
+SSLA 44-4_8	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263121000905	2022	Repetition rating	outcome	0	0 to 4, with criteria	each category	5	means	NA
+SSLA 44-5_6	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263121000917	2022	Language interaction	outcome	0	(1) never, (2) once in every 2 weeks, (3) once a week, (4) two or three times a week, (5) four or five times a week, (6) everyday	each category	6	means	NA
+SSLA 44-5_6	Studies in Second Language Acquisition	https://doi.org/10.1017/S0272263121000917	2022	Self-rated proficiency	sample description	0	0 to 5	numbers	6	means	NA
+WE 31-2_7	World Englishes	https://doi.org/10.1111/j.1467-971X.2012.01754.x	2012	Accent perception	outcome	0	Semantic differential scale	endpoints	5	means	NA
+WE 31-3_1	World Englishes	https://doi.org/10.1111/j.1467-971X.2012.01753.x	2012	Accent perception	outcome	0	Semantic differential scale	endpoints	6	means	NA
+WE 32-1_4	World Englishes	https://doi.org/10.1111/weng.12004	2013	Preference for accent in specific context	outcome	0	Likert-type	each category	4	means	agreement
+WE 32-4_2	World Englishes	https://doi.org/10.1111/weng.12056	2013	Acceptability rating	outcome	0	(1) fully acceptable, (2) looks ok, (3) not sure, (4) looks unacceptable, (5) totally unacceptable	each category	5	description_categorical	NA
+WE 33-2_3	World Englishes	https://doi.org/10.1111/weng.12081	2014	Language attitudes	outcome	0	(1) least agree (7) most agree	endpoints	7	means	NA
+WE 33-2_6	World Englishes	https://doi.org/10.1111/weng.12084	2014	Opinion on status of World Englishes in proficiency tests	outcome	0	Likert-type	each category	5	description_categorical	agreement
+WE 33-3_3	World Englishes	https://doi.org/10.1111/weng.12094	2014	Self-reported proficiency	outcome	0	(1) poor, (2) not good, (3) fair, (4) good, (5) very good	each category	5	means	quality
+WE 33-3_5	World Englishes	https://doi.org/10.1111/weng.12096	2014	Language attitudes	outcome	0	(1) not at all friendly, (7) extremely friendly	endpoints	7	means	NA
+WE 33-3_6	World Englishes	https://doi.org/10.1111/weng.12097	2014	Language identity	outcome	0	Likert-type	each category	7	means	agreement
+WE 33-4_7	World Englishes	https://doi.org/10.1111/weng.12110	2014	Satisfaction with English programme	outcome	0	(1) not satisfied, (2) slightly satisfied, (3) satisfied, (4) very satisfied	each category	4	description_categorical	intensity
+WE 33-4_7	World Englishes	https://doi.org/10.1111/weng.12110	2014	Importance of English skills	outcome	0	(1) not important, (2) low, (3) fairly, (4) quite high, (5) high	each category	4	description_categorical	NA
+WE 33-4_7	World Englishes	https://doi.org/10.1111/weng.12110	2014	Frequency of task performance in English	outcome	0	(1) never, (2) sometimes, (3) usually, (4) frequently, (5) always	each category	5	description_categorical	frequency
+WE 33-4_7	World Englishes	https://doi.org/10.1111/weng.12110	2014	English preparation	outcome	0	(1) poorly prepared, (2) not so prepared, (3) fairly prepared, (4) well prepared, (5) very well prepared	each category	5	description_categorical	intensity
+WE 34-2_2	World Englishes	https://doi.org/10.1111/weng.12132	2015	Frequency of language use	outcome	0	(1) Often, (2) Sometimes, (3) Seldom	each category	3	means	frequency
+WE 34-3_10	World Englishes	https://doi.org/10.1111/weng.12149	2015	Beliefs about language learning	outcome	0	Likert-type	each category	5	means	agreement
+WE 34-4_10	World Englishes	https://doi.org/10.1111/weng.12160	2015	Language attitudes	outcome	0	Semantic differential scale	endpoints	6	means	NA
+WE 35-1_7	World Englishes	https://doi.org/10.1111/weng.12174	2016	Language attitudes	outcome	0	Semantic differential scale	endpoints	6	means	NA
+WE 35-3_2	World Englishes	https://doi.org/10.1111/weng.12209	2016	Comprehensibility rating	outcome	0	(1) incomprehensible, (2), (3) neutral, (4), (5) incomprehensible	endpoints and midpoint	5	means	NA
+WE 35-3_3	World Englishes	https://doi.org/10.1111/weng.12184	2016	Language attitudes	outcome	0	Likert-type	each category	4	description_categorical	agreement
+WE 36-4_13	World Englishes	https://doi.org/10.1111/weng.12246	2017	Acceptability rating	outcome	0	(1) clearly acceptable; (2) probably acceptable; (3) probably unacceptable; (4) clearly unacceptable	each category	4	means	intensity
+WE 36-4_6	World Englishes	https://doi.org/10.1111/weng.12284	2017	Frequency of language use	outcome	0	(1) Never, (2) Seldom (once/twice a year), (3) Not very often (once/twice every 4 months), (4) Sometimes (once/twice a month), (5) Often (once/twice a week), (6) Always (almost every day)	each category	6	means	frequency
+WE 36-4_6	World Englishes	https://doi.org/10.1111/weng.12284	2017	Importance of languages in the professional workspace	outcome	0	(1) Completely unimportant,  (2) Unimportant, (3) Of some importance, (4) Important, (5) Very important, (6) Extremely important	each category	6	means	intensity
+WE 36-4_7	World Englishes	https://doi.org/10.1111/weng.12238	2017	Frequency of language use	outcome	0	(1) always English, (6) always Cantonese	endpoints	6	means	NA
+WE 37-2_2	World Englishes	https://doi.org/10.1111/weng.12311	2018	Ethnic identity	outcome	0	Likert-type	each category	5	means	agreement
+WE 37-2_8	World Englishes	https://doi.org/10.1111/weng.12292	2018	Self-assessed proficiency	outcome	0	(1) poor, (2) not good, (3) fair, (4) good, (5) very good	each category	5	means	quality
+WE 37-4_1	World Englishes	https://doi.org/10.1111/weng.12344	2018	Accentedness, comprehensibility	outcome	0	(1) very strong accent/very difficult to understand, (9) mild or no accent/very easy to understand	endpoints	9	means	NA
+WE 37-4_8	World Englishes	https://doi.org/10.1111/weng.12348	2018	Language attitudes	outcome	0	Likert-type	each category	4	means	agreement
+WE 38-3_4	World Englishes	https://doi.org/10.1111/weng.12430	2019	Advertisement ratings	outcome	0	Likert-type	each category	7	means	agreement
+WE 38-4_3	World Englishes	https://doi.org/10.1111/weng.12359	2019	Language attitudes	outcome	0	Likert-type	each category	6	means	agreement
+WE 40-2_2	World Englishes	https://doi.org/10.1111/weng.12506	2021	Frequency of language use	outcome	0	(1) never, (2) sometimes, (3) often, (4) always	each category	4	description_categorical	frequency
+WE 40-2_3	World Englishes	https://doi.org/10.1111/weng.12507	2021	Self-assessed proficiency	outcome	0	(1) beginner, (2) elementary, (3) intermediate, (4)  upper intermediate, (5)  advanced, (6) mastery	each category	6	means	quality
+WE 41-3_7	World Englishes	https://doi.org/10.1111/weng.12587	2022	Accent perception	outcome	0	Likert-type	each category	4	means	agreement
+WE 41-3_7	World Englishes	https://doi.org/10.1111/weng.12587	2022	Acceptability rating	outcome	0	(1) fully acceptable, (2) somewhat acceptable, (3) somewhat unacceptable, (4) completely unacceptable	each category	4	means	intensity

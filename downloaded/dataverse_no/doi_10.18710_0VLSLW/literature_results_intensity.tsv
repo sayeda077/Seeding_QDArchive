@@ -1,0 +1,82 @@
+study	group	n_subjects	verbal_label	mean_rating_original	sd_rating_original	mean_rating	sd_rating
+krsacok2001	college_females	54	extremely	4.59	0.63	9.18	1.26
+krsacok2001	college_females	53	completely	4.57	0.72	9.14	1.44
+krsacok2001	college_females	54	fully	4.48	0.75	8.96	1.5
+krsacok2001	college_females	54	very very	4.46	0.66	8.92	1.32
+krsacok2001	college_females	54	highly	4.34	0.52	8.68	1.04
+krsacok2001	college_females	54	most	4.3	0.72	8.6	1.44
+krsacok2001	college_females	54	wholly	4.09	1.09	8.18	2.18
+krsacok2001	college_females	51	largely	3.75	0.7	7.5	1.4
+krsacok2001	college_females	54	quite	3.22	0.84	6.44	1.68
+krsacok2001	college_females	52	moderately	2.57	0.57	5.14	1.14
+krsacok2001	college_females	54	reasonably	2.46	0.77	4.92	1.54
+krsacok2001	college_females	54	pretty	2.35	0.76	4.7	1.52
+krsacok2001	college_females	54	fairly	2.13	0.7	4.26	1.4
+krsacok2001	college_females	54	rather	2.02	0.82	4.04	1.64
+krsacok2001	college_females	52	mildly	1.74	0.745	3.48	1.49
+krsacok2001	college_females	54	somewhat	1.67	0.67	3.34	1.34
+krsacok2001	college_females	53	slightly	1.34	0.59	2.68	1.18
+krsacok2001	college_females	54	sort of	1.13	0.52	2.26	1.04
+krsacok2001	college_females	52	barely	0.09	1.55	0.18	3.1
+krsacok2001	college_males	54	completely	4.59	0.74	9.18	1.48
+krsacok2001	college_males	54	extremely	4.51	0.54	9.02	1.08
+krsacok2001	college_males	54	fully	4.5	0.72	9	1.44
+krsacok2001	college_males	54	very very	4.41	0.84	8.82	1.68
+krsacok2001	college_males	53	wholly	4.35	0.78	8.7	1.56
+krsacok2001	college_males	54	most	4.17	0.82	8.34	1.64
+krsacok2001	college_males	54	highly	4.09	0.49	8.18	0.98
+krsacok2001	college_males	53	largely	3.61	0.72	7.22	1.44
+krsacok2001	college_males	54	quite	3.11	0.95	6.22	1.9
+krsacok2001	college_males	54	pretty	2.48	0.73	4.96	1.46
+krsacok2001	college_males	54	reasonably	2.44	0.72	4.88	1.44
+krsacok2001	college_males	54	moderately	2.26	0.68	4.52	1.36
+krsacok2001	college_males	54	rather	2.19	0.74	4.38	1.48
+krsacok2001	college_males	53	fairly	2.07	0.75	4.14	1.5
+krsacok2001	college_males	53	mildly	1.85	0.72	3.6900000000000004	1.44
+krsacok2001	college_males	54	somewhat	1.7	0.57	3.4	1.14
+krsacok2001	college_males	53	slightly	1.23	0.51	2.46	1.02
+krsacok2001	college_males	53	sort of	1.06	0.63	2.12	1.26
+krsacok2001	college_males	54	barely	0.58	1.09	1.16	2.18
+matthews_etal1978	army_personnel	51	wholly	4.73	0.56	9.46	1.12
+matthews_etal1978	army_personnel	51	completely	4.69	0.61	9.38	1.22
+matthews_etal1978	army_personnel	51	fully	4.41	0.87	8.82	1.74
+matthews_etal1978	army_personnel	51	extremely	4.39	0.72	8.78	1.44
+matthews_etal1978	army_personnel	51	most	4.16	0.92	8.32	1.84
+matthews_etal1978	army_personnel	51	very very	4.16	0.83	8.32	1.66
+matthews_etal1978	army_personnel	50	highly	4.04	0.63	8.08	1.26
+matthews_etal1978	army_personnel	51	quite	3.22	0.96	6.44	1.92
+matthews_etal1978	army_personnel	51	largely	3.14	0.99	6.28	1.98
+matthews_etal1978	army_personnel	51	reasonably	2.29	0.72	4.58	1.44
+matthews_etal1978	army_personnel	50	moderately	2.28	0.72	4.56	1.44
+matthews_etal1978	army_personnel	49	pretty	2	1.13	4	2.26
+matthews_etal1978	army_personnel	49	rather	1.94	0.82	3.88	1.64
+matthews_etal1978	army_personnel	50	fairly	1.84	0.92	3.68	1.84
+matthews_etal1978	army_personnel	51	mildly	1.8	0.95	3.6	1.9
+matthews_etal1978	army_personnel	51	mildly	1.69	0.7	3.38	1.4
+matthews_etal1978	army_personnel	48	somewhat	1.46	1.24	2.92	2.48
+matthews_etal1978	army_personnel	51	barely	1.08	0.52	2.16	1.04
+matthews_etal1978	army_personnel	51	slightly	1.04	0.52	2.08	1.04
+matthews_etal1978	army_personnel	50	sort of	0.94	0.65	1.88	1.3
+rohrmann2007	mainly_psychology_students	164	a little	2.5	1.2	2.5	1.2
+rohrmann2007	mainly_psychology_students	164	average	4.8	0.8	4.8	0.8
+rohrmann2007	mainly_psychology_students	164	completely	9.8	0.6	9.8	0.6
+rohrmann2007	mainly_psychology_students	164	considerably	7.6	1.1	7.6	1.1
+rohrmann2007	mainly_psychology_students	164	extremely	9.6	0.5	9.6	0.5
+rohrmann2007	mainly_psychology_students	164	fairly	5.3	1.3	5.3	1.3
+rohrmann2007	mainly_psychology_students	164	fully	9.4	1.1	9.4	1.1
+rohrmann2007	mainly_psychology_students	164	hardly	1.5	0.8	1.5	0.8
+rohrmann2007	mainly_psychology_students	164	highly	8.6	0.7	8.6	0.7
+rohrmann2007	mainly_psychology_students	164	in-between	4.8	0.8	4.8	0.8
+rohrmann2007	mainly_psychology_students	164	mainly	6.8	1.1	6.8	1.1
+rohrmann2007	mainly_psychology_students	164	medium	4.9	0.8	4.9	0.8
+rohrmann2007	mainly_psychology_students	164	moderately	5	1.1	5	1.1
+rohrmann2007	mainly_psychology_students	164	not	0.4	0.6	0.4	0.6
+rohrmann2007	mainly_psychology_students	164	not at all	0	0.2	0	0.2
+rohrmann2007	mainly_psychology_students	164	partly	3.5	1.3	3.5	1.3
+rohrmann2007	mainly_psychology_students	164	quite	5.9	1.4	5.9	1.4
+rohrmann2007	mainly_psychology_students	164	quite a bit	6.5	1.5	6.5	1.5
+rohrmann2007	mainly_psychology_students	164	rather	5.8	1.5	5.8	1.5
+rohrmann2007	mainly_psychology_students	164	slightly	2.5	1.3	2.5	1.3
+rohrmann2007	mainly_psychology_students	164	somewhat	4.5	1.6	4.5	1.6
+rohrmann2007	mainly_psychology_students	164	very	7.9	0.9	7.9	0.9
+rohrmann2007	mainly_psychology_students	164	very much	8.7	0.8	8.7	0.8

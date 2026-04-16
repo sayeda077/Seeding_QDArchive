@@ -1,0 +1,121 @@
+verbal_label	percentage	measure	study	n_subjects
+certain	95	mean	1	32
+high probability	87	mean	1	32
+likely	73	mean	1	32
+low probability	17	mean	1	32
+moderate probability	61	mean	1	32
+not unreasonable	47	mean	1	32
+possible	43	mean	1	32
+probable	77	mean	1	32
+unlikely	20	mean	1	32
+improbable	17	mean	2	32
+likely	74	mean	2	32
+possible	38	mean	2	32
+probable	72	mean	2	32
+unlikely	20	mean	2	32
+improbable	16	mean	6	28
+likely	61	mean	6	28
+possible	51	mean	6	28
+probable	62	mean	6	28
+unlikely	23	mean	6	28
+very likely	74	mean	6	28
+very probable	79	mean	6	28
+very unlikely	15	mean	6	28
+almost certain	78	mean	8	170
+almost certain	82	mean	8	134
+almost certain	90	mean	8	140
+certain	95	mean	8	140
+improbable	13	mean	8	134
+likely	63	mean	8	134
+likely	63	mean	8	170
+not unreasonable	32	mean	8	134
+possible	27	mean	8	134
+probable	64	mean	8	170
+probable	65	mean	8	134
+unlikely	14	mean	8	134
+very likely	85	mean	8	140
+improbable	12	mean	9	186
+likely	72	mean	9	186
+possible	37	mean	9	186
+probable	71	mean	9	186
+unlikely	18	mean	9	186
+very likely	87	mean	9	186
+very probable	87	mean	9	186
+very unlikely	9	mean	9	186
+certain	91	mean	10	20
+high chance	72	mean	10	20
+improbable	18	mean	10	20
+likely	65	mean	10	20
+poor chance	14	mean	10	20
+possible	55	mean	10	20
+probable	71	mean	10	20
+unlikely	25	mean	10	20
+very improbable	11	mean	10	20
+very likely	79	mean	10	20
+very probable	79	mean	10	20
+very unlikely	14	mean	10	20
+almost certain	90	median	13	115
+even chance	50	median	13	115
+high chance	80	median	13	115
+improbable	15	median	13	115
+likely	70	median	13	115
+low chance	20	median	13	115
+possible	40	median	13	115
+probable	70	median	13	115
+unlikely	15	median	13	115
+very improbable	5	median	13	115
+very likely	85	median	13	115
+very probable	80	median	13	115
+very unlikely	10	median	13	115
+certain	98	median	14	41
+impossible	1	median	14	41
+improbable	20	median	14	41
+likely	80	median	14	41
+possible	55	median	14	41
+probable	80	median	14	41
+unlikely	20	median	14	41
+unlikely	10	median	17	59
+unlikely	10	median	17	127
+very high probability	90	median	17	59
+very high probability	91	median	17	127
+almost certain	90	mean	20	230
+better than even chance	58	mean	20	230
+certain	98	mean	20	230
+even chance	50	mean	20	230
+high chance	82	mean	20	230
+high probability	80	mean	20	230
+impossible	1	mean	20	230
+improbable	16	mean	20	230
+less than an even chance	41	mean	20	230
+liable to happen	66	mean	20	230
+likely	70	mean	20	230
+low chance	10	mean	20	230
+low probability	16	mean	20	230
+might happen	36	mean	20	230
+moderate probability	51	mean	20	230
+not unreasonable	39	mean	20	340
+poor chance	13	mean	20	230
+possible	33	mean	20	230
+probable	70	mean	20	230
+unlikely	17	mean	20	230
+unusually	19	mean	20	230
+very high probability	91	mean	20	230
+very improbable	6	mean	20	230
+very likely	85	mean	20	230
+very low probability	6	mean	20	230
+very probable	87	mean	20	230
+very unlikely	6	mean	20	230
+a very good chance	82	mean	21	144
+about fifty fifty	48	mean	21	144
+certainly	96	mean	21	144
+certainly not	2	mean	21	144
+for sure	98	mean	21	144
+likely	69	mean	21	144
+no chance at all	0	mean	21	144
+probably	68	mean	21	144
+probably not	19	mean	21	144
+quite likely	74	mean	21	144
+under most circumstances	75	mean	21	144
+under some circumstances	46	mean	21	144
+unlikely	17	mean	21	144
+with certainty	98	mean	21	144

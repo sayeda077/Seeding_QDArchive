@@ -1,0 +1,23 @@
+verbal_label	study_subgroup	n_subjects	mean_score	sd_score
+fully disagree	rohrmann2007	164	0.2	0.4
+strongly disagree	rohrmann2007	164	0.4	0.6
+not true for me	rohrmann2007	164	1.2	1
+disagree	rohrmann2007	164	1.6	1
+don’t agree	rohrmann2007	164	1.9	1.2
+mainly disagree	rohrmann2007	164	2.4	0.9
+somewhat disagree	rohrmann2007	164	3.2	0.9
+undecided	rohrmann2007	164	4.8	0.6
+in-between	rohrmann2007	164	4.9	0.5
+neither agree nor disagree	rohrmann2007	164	4.9	0.4
+neutral	rohrmann2007	164	4.9	0.4
+half-half	rohrmann2007	164	5	0.4
+somewhat true for me	rohrmann2007	164	6	1.2
+somewhat agree	rohrmann2007	164	6.4	0.9
+fairly true	rohrmann2007	164	6.6	0.9
+mainly agree	rohrmann2007	164	7.4	0.7
+mostly true for me	rohrmann2007	164	7.7	1
+agree	rohrmann2007	164	8.2	0.9
+true for me	rohrmann2007	164	8.4	1.2
+right	rohrmann2007	164	8.6	1.1
+strongly agree	rohrmann2007	164	9.6	0.6
+fully agree	rohrmann2007	164	9.8	0.5

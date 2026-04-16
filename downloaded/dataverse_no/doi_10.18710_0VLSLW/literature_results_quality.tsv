@@ -1,0 +1,351 @@
+verbal_label	study_subgroup	n_subjects	mean_score	sd_score
+superior	myers_warner1968_housewives	25	20.12	1.17
+fantastic	myers_warner1968_housewives	25	20.12	0.83
+tremendous	myers_warner1968_housewives	25	19.84	1.31
+superb	myers_warner1968_housewives	25	19.8	1.19
+excellent	myers_warner1968_housewives	25	19.4	1.73
+terrific	myers_warner1968_housewives	25	19	2.45
+outstanding	myers_warner1968_housewives	25	18.96	1.99
+exceptionally good	myers_warner1968_housewives	25	18.56	2.36
+extremely good	myers_warner1968_housewives	25	18.44	1.61
+wonderful	myers_warner1968_housewives	25	17.32	2.36
+unusually good	myers_warner1968_housewives	25	17.08	2.43
+remarkably good	myers_warner1968_housewives	25	16.68	2.19
+delightful	myers_warner1968_housewives	25	16.92	1.85
+very good	myers_warner1968_housewives	25	15.44	2.77
+fine	myers_warner1968_housewives	25	14.8	2.12
+quite good	myers_warner1968_housewives	25	14.44	2.76
+good	myers_warner1968_housewives	25	14.32	2.08
+moderately good	myers_warner1968_housewives	25	13.44	2.23
+pleasant	myers_warner1968_housewives	25	13.44	2.06
+reasonably good	myers_warner1968_housewives	25	12.92	2.93
+nice	myers_warner1968_housewives	25	12.56	2.14
+fairly good	myers_warner1968_housewives	25	11.96	2.42
+slightly good	myers_warner1968_housewives	25	11.84	2.19
+acceptable	myers_warner1968_housewives	25	11.12	2.59
+average	myers_warner1968_housewives	25	10.84	1.55
+all right	myers_warner1968_housewives	25	10.76	1.42
+o.k.	myers_warner1968_housewives	25	10.28	1.67
+so-so	myers_warner1968_housewives	25	10.08	1.87
+neutral	myers_warner1968_housewives	25	9.8	1.5
+fair	myers_warner1968_housewives	25	9.52	2.06
+mediocre	myers_warner1968_housewives	25	9.44	1.8
+not very good	myers_warner1968_housewives	25	6.72	2.82
+moderately poor	myers_warner1968_housewives	25	6.44	1.64
+reasonably poor	myers_warner1968_housewives	25	6.32	2.46
+slightly poor	myers_warner1968_housewives	25	5.92	1.96
+poor	myers_warner1968_housewives	25	5.76	2.09
+fairly poor	myers_warner1968_housewives	25	5.64	1.68
+unpleasant	myers_warner1968_housewives	25	5.04	2.82
+quite poor	myers_warner1968_housewives	25	4.8	1.44
+bad	myers_warner1968_housewives	25	3.88	2.19
+very poor	myers_warner1968_housewives	25	3.2	2.1
+unusually poor	myers_warner1968_housewives	25	3.2	1.44
+very poor	myers_warner1968_housewives	25	3.12	1.17
+remarkably poor	myers_warner1968_housewives	25	2.88	1.74
+unacceptable	myers_warner1968_housewives	25	2.64	2.04
+exceptionally poor	myers_warner1968_housewives	25	2.52	1.19
+extremely poor	myers_warner1968_housewives	25	2.08	1.19
+awful	myers_warner1968_housewives	25	1.92	1.5
+terrible	myers_warner1968_housewives	25	1.76	0.77
+horrible	myers_warner1968_housewives	25	1.48	0.87
+superior	myers_warner1968_executives	36	18.22	2.82
+fantastic	myers_warner1968_executives	36	18.69	3.68
+tremendous	myers_warner1968_executives	36	18.67	2.01
+superb	myers_warner1968_executives	36	19	2.1
+excellent	myers_warner1968_executives	36	18.72	2.25
+terrific	myers_warner1968_executives	36	18.81	2.19
+outstanding	myers_warner1968_executives	36	19.31	2.01
+exceptionally good	myers_warner1968_executives	36	17.03	4.12
+extremely good	myers_warner1968_executives	36	17.33	3.09
+wonderful	myers_warner1968_executives	36	17.97	2.35
+unusually good	myers_warner1968_executives	36	16.47	2.99
+remarkably good	myers_warner1968_executives	36	17.44	2.63
+delightful	myers_warner1968_executives	36	16.61	2.45
+very good	myers_warner1968_executives	36	16.83	2.52
+fine	myers_warner1968_executives	36	15.61	2.72
+quite good	myers_warner1968_executives	36	13.69	2.9
+good	myers_warner1968_executives	36	13.81	3.25
+moderately good	myers_warner1968_executives	36	11.42	2.99
+pleasant	myers_warner1968_executives	36	13.61	2.43
+reasonably good	myers_warner1968_executives	36	11.89	3.37
+nice	myers_warner1968_executives	36	11.44	2.79
+fairly good	myers_warner1968_executives	36	11.94	3.84
+slightly good	myers_warner1968_executives	36	10.25	3.14
+acceptable	myers_warner1968_executives	36	10.67	3.34
+average	myers_warner1968_executives	36	9.97	2.34
+all right	myers_warner1968_executives	36	10.17	3.28
+o.k.	myers_warner1968_executives	36	10.11	2.48
+so-so	myers_warner1968_executives	36	8.81	2.75
+neutral	myers_warner1968_executives	36	9.56	1.9
+fair	myers_warner1968_executives	36	9.56	3.67
+mediocre	myers_warner1968_executives	36	8.11	2.74
+not very good	myers_warner1968_executives	36	6.47	2.41
+moderately poor	myers_warner1968_executives	36	6.83	3.5
+reasonably poor	myers_warner1968_executives	36	6.31	2.19
+slightly poor	myers_warner1968_executives	36	7.19	2.36
+poor	myers_warner1968_executives	36	5.19	2.86
+fairly poor	myers_warner1968_executives	36	6.67	2.81
+unpleasant	myers_warner1968_executives	36	4.36	3.02
+quite poor	myers_warner1968_executives	36	4.56	2.58
+bad	myers_warner1968_executives	36	3.67	2.54
+very poor	myers_warner1968_executives	36	2.22	2.34
+unusually poor	myers_warner1968_executives	36	3.08	1.79
+very poor	myers_warner1968_executives	36	3.14	2.39
+remarkably poor	myers_warner1968_executives	36	2.75	1.7
+unacceptable	myers_warner1968_executives	36	3.53	3.42
+exceptionally poor	myers_warner1968_executives	36	3.19	2.23
+extremely poor	myers_warner1968_executives	36	2.83	2.14
+awful	myers_warner1968_executives	36	2.25	1.46
+terrible	myers_warner1968_executives	36	2.22	2.63
+horrible	myers_warner1968_executives	36	2.22	2.51
+superior	myers_warner1968_graduate_students	40	19.45	1.78
+fantastic	myers_warner1968_graduate_students	40	20.15	1.37
+tremendous	myers_warner1968_graduate_students	40	19.7	1.18
+superb	myers_warner1968_graduate_students	40	19.4	1.95
+excellent	myers_warner1968_graduate_students	40	19.58	1.97
+terrific	myers_warner1968_graduate_students	40	19.08	1.61
+outstanding	myers_warner1968_graduate_students	40	19.58	1.26
+exceptionally good	myers_warner1968_graduate_students	40	17.68	2.26
+extremely good	myers_warner1968_graduate_students	40	17.45	2.26
+wonderful	myers_warner1968_graduate_students	40	18.45	1.99
+unusually good	myers_warner1968_graduate_students	40	16.78	2.12
+remarkably good	myers_warner1968_graduate_students	40	17.2	2.32
+delightful	myers_warner1968_graduate_students	40	16.6	2.24
+very good	myers_warner1968_graduate_students	40	17	2.18
+fine	myers_warner1968_graduate_students	40	14.6	3
+quite good	myers_warner1968_graduate_students	40	15.7	2.08
+good	myers_warner1968_graduate_students	40	14.78	2.27
+moderately good	myers_warner1968_graduate_students	40	12.6	2.55
+pleasant	myers_warner1968_graduate_students	40	13.48	2.33
+reasonably good	myers_warner1968_graduate_students	40	13.85	2.19
+nice	myers_warner1968_graduate_students	40	12.8	2.65
+fairly good	myers_warner1968_graduate_students	40	12.4	2.24
+slightly good	myers_warner1968_graduate_students	40	11.88	2.62
+acceptable	myers_warner1968_graduate_students	40	10.72	1.96
+average	myers_warner1968_graduate_students	40	10.82	1.43
+all right	myers_warner1968_graduate_students	40	10.95	2.15
+o.k.	myers_warner1968_graduate_students	40	10.58	2.12
+so-so	myers_warner1968_graduate_students	40	9.52	1.47
+neutral	myers_warner1968_graduate_students	40	10.18	2.01
+fair	myers_warner1968_graduate_students	40	9.2	2.05
+mediocre	myers_warner1968_graduate_students	40	8.9	2.36
+not very good	myers_warner1968_graduate_students	40	6.4	2.05
+moderately poor	myers_warner1968_graduate_students	40	6.28	1.87
+reasonably poor	myers_warner1968_graduate_students	40	5.82	1.74
+slightly poor	myers_warner1968_graduate_students	40	7.25	2
+poor	myers_warner1968_graduate_students	40	4.72	2.51
+fairly poor	myers_warner1968_graduate_students	40	6.25	1.63
+unpleasant	myers_warner1968_graduate_students	40	4.68	2.63
+quite poor	myers_warner1968_graduate_students	40	3.62	1.67
+bad	myers_warner1968_graduate_students	40	3.85	1.81
+very poor	myers_warner1968_graduate_students	40	2.7	2.16
+unusually poor	myers_warner1968_graduate_students	40	3.48	1.68
+very poor	myers_warner1968_graduate_students	40	3.35	1.99
+remarkably poor	myers_warner1968_graduate_students	40	3.12	1.7
+unacceptable	myers_warner1968_graduate_students	40	3.98	2.79
+exceptionally poor	myers_warner1968_graduate_students	40	3.22	1.82
+extremely poor	myers_warner1968_graduate_students	40	3.1	1.72
+awful	myers_warner1968_graduate_students	40	2.48	1.72
+terrible	myers_warner1968_graduate_students	40	2.05	1.43
+horrible	myers_warner1968_graduate_students	40	1.62	1.15
+superior	myers_warner1968_undergraduate_students	25	18.96	1.67
+fantastic	myers_warner1968_undergraduate_students	25	19.2	1.87
+tremendous	myers_warner1968_undergraduate_students	25	18.92	1.75
+superb	myers_warner1968_undergraduate_students	25	19.6	2.42
+excellent	myers_warner1968_undergraduate_students	25	19.44	1.42
+terrific	myers_warner1968_undergraduate_students	25	18.6	1.63
+outstanding	myers_warner1968_undergraduate_students	25	19.4	1.35
+exceptionally good	myers_warner1968_undergraduate_students	25	17.88	1.72
+extremely good	myers_warner1968_undergraduate_students	25	18	1.5
+wonderful	myers_warner1968_undergraduate_students	25	17.52	2.1
+unusually good	myers_warner1968_undergraduate_students	25	16.2	1.8
+remarkably good	myers_warner1968_undergraduate_students	25	17.08	1.89
+delightful	myers_warner1968_undergraduate_students	25	16.76	1.51
+very good	myers_warner1968_undergraduate_students	25	16.8	1.44
+fine	myers_warner1968_undergraduate_students	25	15.32	2.21
+quite good	myers_warner1968_undergraduate_students	25	15.6	1.94
+good	myers_warner1968_undergraduate_students	25	14.56	1.96
+moderately good	myers_warner1968_undergraduate_students	25	13.04	1.43
+pleasant	myers_warner1968_undergraduate_students	25	14.48	2.14
+reasonably good	myers_warner1968_undergraduate_students	25	14.2	1.71
+nice	myers_warner1968_undergraduate_students	25	13.72	1.77
+fairly good	myers_warner1968_undergraduate_students	25	13.12	2.11
+slightly good	myers_warner1968_undergraduate_students	25	12.32	1.52
+acceptable	myers_warner1968_undergraduate_students	25	11.4	2.02
+average	myers_warner1968_undergraduate_students	25	10.76	1.05
+all right	myers_warner1968_undergraduate_students	25	11.4	1.26
+o.k.	myers_warner1968_undergraduate_students	25	11.28	1.21
+so-so	myers_warner1968_undergraduate_students	25	10.36	1.15
+neutral	myers_warner1968_undergraduate_students	25	10.52	1.16
+fair	myers_warner1968_undergraduate_students	25	10.24	2.2
+mediocre	myers_warner1968_undergraduate_students	25	9.36	2.2
+not very good	myers_warner1968_undergraduate_students	25	7.92	2.02
+moderately poor	myers_warner1968_undergraduate_students	25	7.24	1.59
+reasonably poor	myers_warner1968_undergraduate_students	25	6.16	1.57
+slightly poor	myers_warner1968_undergraduate_students	25	8.48	1.83
+poor	myers_warner1968_undergraduate_students	25	5.24	1.51
+fairly poor	myers_warner1968_undergraduate_students	25	6.72	1.74
+unpleasant	myers_warner1968_undergraduate_students	25	5.52	2.06
+quite poor	myers_warner1968_undergraduate_students	25	4.56	1.78
+bad	myers_warner1968_undergraduate_students	25	4.24	1.88
+very poor	myers_warner1968_undergraduate_students	25	3.08	1.5
+unusually poor	myers_warner1968_undergraduate_students	25	4.16	1.57
+very poor	myers_warner1968_undergraduate_students	25	3.68	1.52
+remarkably poor	myers_warner1968_undergraduate_students	25	3.92	1.68
+unacceptable	myers_warner1968_undergraduate_students	25	5.56	3.06
+exceptionally poor	myers_warner1968_undergraduate_students	25	3.52	1.96
+extremely poor	myers_warner1968_undergraduate_students	25	3.24	1.76
+awful	myers_warner1968_undergraduate_students	25	2.68	1.86
+terrible	myers_warner1968_undergraduate_students	25	1.88	1.24
+horrible	myers_warner1968_undergraduate_students	25	2	1.35
+terrible	wildt_mazis1978	54	1.28	0.53
+horrible	wildt_mazis1978	54	1.37	0.83
+awful	wildt_mazis1978	54	1.39	0.74
+exceptionally poor	wildt_mazis1978	54	1.81	0.93
+extremely poor	wildt_mazis1978	54	2.02	0.96
+very bad	wildt_mazis1978	54	2.06	1
+very poor	wildt_mazis1978	54	2.06	0.98
+unacceptable	wildt_mazis1978	54	2.8	2.52
+unusually poor	wildt_mazis1978	54	2.82	1.5
+remarkably poor	wildt_mazis1978	54	2.91	1.46
+quite poor	wildt_mazis1978	54	3.13	1.56
+bad	wildt_mazis1978	54	3.72	1.57
+unpleasant	wildt_mazis1978	54	4.15	2.08
+poor	wildt_mazis1978	54	4.39	1.77
+reasonably poor	wildt_mazis1978	54	5	1.52
+moderately poor	wildt_mazis1978	54	5.41	1.9
+not very good	wildt_mazis1978	54	5.43	2.36
+fairly poor	wildt_mazis1978	54	5.57	1.94
+slightly poor	wildt_mazis1978	54	6.46	2.34
+mediocre	wildt_mazis1978	54	8.82	2.22
+so-so	wildt_mazis1978	54	9.44	1.76
+neutral	wildt_mazis1978	54	10.28	1.42
+average	wildt_mazis1978	54	10.33	1.83
+acceptable	wildt_mazis1978	54	10.59	2.12
+fair	wildt_mazis1978	54	10.71	2.25
+o.k.	wildt_mazis1978	54	10.94	2.12
+slightly good	wildt_mazis1978	54	11.67	2.44
+all right	wildt_mazis1978	54	11.76	1.94
+nice	wildt_mazis1978	54	12.76	1.86
+reasonably good	wildt_mazis1978	54	13.48	2.42
+pleasant	wildt_mazis1978	54	13.8	2.04
+fairly good	wildt_mazis1978	54	13.82	2.29
+moderately good	wildt_mazis1978	54	14.26	1.93
+good	wildt_mazis1978	54	14.96	1.81
+fine	wildt_mazis1978	54	15.35	2.78
+delightful	wildt_mazis1978	54	15.65	3.13
+quite good	wildt_mazis1978	54	15.78	1.8
+very good	wildt_mazis1978	54	17.32	1.77
+unusually good	wildt_mazis1978	54	17.76	2.15
+wonderful	wildt_mazis1978	54	17.83	2.39
+terrific	wildt_mazis1978	54	18	2.77
+remarkably good	wildt_mazis1978	54	18.19	1.76
+exceptionally good	wildt_mazis1978	54	18.5	2.04
+extremely good	wildt_mazis1978	54	18.57	1.86
+tremendous	wildt_mazis1978	54	18.78	2.37
+outstanding	wildt_mazis1978	54	18.85	2.11
+excellent	wildt_mazis1978	54	19.26	1.89
+fantastic	wildt_mazis1978	54	19.26	2.07
+superb	wildt_mazis1978	54	19.35	1.74
+superior	wildt_mazis1978	54	19.8	1.52
+excellent	vivaldi1975_undergraduate_students	22	20.32	0.65
+fantastic	vivaldi1975_undergraduate_students	22	20.18	1.1
+superb	vivaldi1975_undergraduate_students	22	19.73	0.98
+superior	vivaldi1975_undergraduate_students	22	19.59	1.4
+outstanding	vivaldi1975_undergraduate_students	22	19.41	1.5
+exceptionally good	vivaldi1975_undergraduate_students	22	19.27	1.53
+extremely good	vivaldi1975_undergraduate_students	22	19.14	1.32
+tremendous	vivaldi1975_undergraduate_students	22	18.82	1.56
+terrific	vivaldi1975_undergraduate_students	22	18.68	1.6
+very good	vivaldi1975_undergraduate_students	22	18.05	1.36
+wonderful	vivaldi1975_undergraduate_students	22	17.95	1.86
+delightful	vivaldi1975_undergraduate_students	22	17.91	1.75
+unusually good	vivaldi1975_undergraduate_students	22	17.73	1.72
+remarkably good	vivaldi1975_undergraduate_students	22	17.71	1.96
+quite good	vivaldi1975_undergraduate_students	22	16.82	1.76
+reasonably good	vivaldi1975_undergraduate_students	22	15.91	1.95
+fine	vivaldi1975_undergraduate_students	22	15.64	1.68
+good	vivaldi1975_undergraduate_students	22	15.59	1.72
+pleasant	vivaldi1975_undergraduate_students	22	15.14	2.25
+fairly good	vivaldi1975_undergraduate_students	22	13.82	2.13
+moderately good	vivaldi1975_undergraduate_students	22	13.59	1.89
+acceptable	vivaldi1975_undergraduate_students	22	13.55	3.22
+nice	vivaldi1975_undergraduate_students	22	13.15	2.59
+slightly good	vivaldi1975_undergraduate_students	22	13.05	1.72
+all right	vivaldi1975_undergraduate_students	22	13.06	2.45
+o.k.	vivaldi1975_undergraduate_students	22	12.59	2.45
+average	vivaldi1975_undergraduate_students	22	12.32	2.57
+fair	vivaldi1975_undergraduate_students	22	12.18	2.54
+neutral	vivaldi1975_undergraduate_students	22	11.18	1.45
+so-so	vivaldi1975_undergraduate_students	22	10.87	1.72
+mediocre	vivaldi1975_undergraduate_students	22	10.18	2.14
+slightly poor	vivaldi1975_undergraduate_students	22	8.68	1.89
+not very good	vivaldi1975_undergraduate_students	22	8.23	2.55
+moderately poor	vivaldi1975_undergraduate_students	22	8.05	1.83
+fairly poor	vivaldi1975_undergraduate_students	22	7.32	2.12
+unpleasant	vivaldi1975_undergraduate_students	22	7.18	2.44
+reasonably poor	vivaldi1975_undergraduate_students	22	6.5	1.74
+poor	vivaldi1975_undergraduate_students	22	5.73	2.03
+unacceptable	vivaldi1975_undergraduate_students	22	5.55	2.97
+unusually poor	vivaldi1975_undergraduate_students	22	4.68	2.88
+bad	vivaldi1975_undergraduate_students	22	4.55	2.04
+remarkably poor	vivaldi1975_undergraduate_students	22	4.32	1.98
+very poor	vivaldi1975_undergraduate_students	22	4.18	1.97
+quite poor	vivaldi1975_undergraduate_students	22	4	2.35
+very bad	vivaldi1975_undergraduate_students	22	3.41	1.62
+awful	vivaldi1975_undergraduate_students	22	3.05	2.21
+terrible	vivaldi1975_undergraduate_students	22	2.96	1.52
+horrible	vivaldi1975_undergraduate_students	22	2.95	2.08
+exceptionally poor	vivaldi1975_undergraduate_students	22	2.82	1.35
+extremely poor	vivaldi1975_undergraduate_students	22	2.68	1.36
+excellent	vivaldi1975_graduate_students	26	19.9	1.17
+fantastic	vivaldi1975_graduate_students	26	20	0.98
+superb	vivaldi1975_graduate_students	26	19.81	1.36
+superior	vivaldi1975_graduate_students	26	19.69	1.35
+outstanding	vivaldi1975_graduate_students	26	19.73	1.15
+exceptionally good	vivaldi1975_graduate_students	26	19.89	0.99
+extremely good	vivaldi1975_graduate_students	26	19.42	1.17
+tremendous	vivaldi1975_graduate_students	26	19.31	1.41
+terrific	vivaldi1975_graduate_students	26	19.32	1.34
+very good	vivaldi1975_graduate_students	26	18.73	1.4
+wonderful	vivaldi1975_graduate_students	26	18.5	1.65
+delightful	vivaldi1975_graduate_students	26	18.54	1.73
+unusually good	vivaldi1975_graduate_students	26	18.58	1.33
+remarkably good	vivaldi1975_graduate_students	26	19.04	1.25
+quite good	vivaldi1975_graduate_students	26	17.88	1.82
+reasonably good	vivaldi1975_graduate_students	26	15.35	1.38
+fine	vivaldi1975_graduate_students	26	17.24	1.82
+good	vivaldi1975_graduate_students	26	16.5	1.56
+pleasant	vivaldi1975_graduate_students	26	15.92	1.76
+fairly good	vivaldi1975_graduate_students	26	14.23	1.61
+moderately good	vivaldi1975_graduate_students	26	14.58	1.7
+acceptable	vivaldi1975_graduate_students	26	13.04	2.03
+nice	vivaldi1975_graduate_students	26	14.73	1.97
+slightly good	vivaldi1975_graduate_students	26	12.58	1.13
+all right	vivaldi1975_graduate_students	26	12.88	2.44
+o.k.	vivaldi1975_graduate_students	26	12.4	1.79
+average	vivaldi1975_graduate_students	26	11.54	1.56
+fair	vivaldi1975_graduate_students	26	11.31	2.29
+neutral	vivaldi1975_graduate_students	26	11.08	0.93
+so-so	vivaldi1975_graduate_students	26	10.62	1.27
+mediocre	vivaldi1975_graduate_students	26	9.58	1.93
+slightly poor	vivaldi1975_graduate_students	26	9.08	1.16
+not very good	vivaldi1975_graduate_students	26	6.77	1.36
+moderately poor	vivaldi1975_graduate_students	26	7.27	1.56
+fairly poor	vivaldi1975_graduate_students	26	6.73	1.97
+unpleasant	vivaldi1975_graduate_students	26	6.5	1.63
+reasonably poor	vivaldi1975_graduate_students	26	6.31	1.67
+poor	vivaldi1975_graduate_students	26	6.27	1.51
+unacceptable	vivaldi1975_graduate_students	26	4.92	2.3
+unusually poor	vivaldi1975_graduate_students	26	3.64	1.7
+bad	vivaldi1975_graduate_students	26	4.08	1.81
+remarkably poor	vivaldi1975_graduate_students	26	3.62	1.5
+very poor	vivaldi1975_graduate_students	26	3.63	1.61
+quite poor	vivaldi1975_graduate_students	26	4.39	1.47
+very bad	vivaldi1975_graduate_students	26	2.47	1.3
+awful	vivaldi1975_graduate_students	26	3.08	1.86
+terrible	vivaldi1975_graduate_students	26	2.85	1.29
+horrible	vivaldi1975_graduate_students	26	2.54	1.07
+exceptionally poor	vivaldi1975_graduate_students	26	2.27	1.12
+extremely poor	vivaldi1975_graduate_students	26	2.55	1.17

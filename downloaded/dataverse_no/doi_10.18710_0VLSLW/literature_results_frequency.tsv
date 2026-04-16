@@ -1,0 +1,175 @@
+verbal_label	percentage	measure	study	n_subjects
+always	94	mean	1	32
+sometimes	32	mean	1	32
+always	94	mean	2	32
+never	0	mean	2	32
+often	73	mean	2	32
+rarely	8	mean	2	32
+seldom	16	mean	2	32
+usually	78	mean	2	32
+almost never	2	median	3	100
+always	100	median	3	100
+never	0	median	3	100
+not often	16	median	3	100
+now and then	34	median	3	100
+occasionally	28	median	3	100
+often	74	median	3	100
+once in a while	22	median	3	100
+rarely	5	median	3	100
+seldom	9	median	3	100
+sometimes	29	median	3	100
+usually	79	median	3	100
+very often	87	median	3	100
+very seldom	7	median	3	100
+always	100	mean	4	20
+always	100	mean	4	20
+always	100	mean	4	20
+never	0	mean	4	20
+occasionally	24	mean	4	20
+occasionally	28	mean	4	20
+often	70	mean	4	20
+seldom	10	mean	4	20
+sometimes	36	mean	4	20
+very often	82	mean	4	20
+almost always	88	mean	5	60
+almost never	7	mean	5	60
+always	96	mean	5	60
+as often as not	50	mean	5	60
+never	1	mean	5	60
+not often	15	mean	5	60
+now and then	32	mean	5	60
+often	75	mean	5	60
+once in a while	24	mean	5	60
+seldom	18	mean	5	60
+very seldom	12	mean	5	60
+almost always	94	mean	7	24
+always	99	mean	7	24
+more often than not	64	mean	7	24
+never	0	mean	7	24
+occasionally	20	mean	7	24
+often	61	mean	7	24
+rarely	5	mean	7	24
+sometimes	33	mean	7	24
+usually	76	mean	7	24
+almost never	2	mean	8	144
+frequent	56	mean	8	134
+never	3	mean	8	144
+seldom	16	mean	9	186
+usually	77	mean	9	186
+frequent	36	mean	11	33
+frequent	39	mean	11	29
+frequent	66	mean	12	106
+frequent	67	mean	12	103
+infrequent	16	mean	12	103
+infrequent	19	mean	12	106
+occasionally	21	mean	12	103
+occasionally	21	mean	12	106
+often	62	mean	12	103
+often	64	mean	12	106
+sometimes	20	mean	12	103
+sometimes	22	mean	12	106
+almost always	90	mean	15	24
+almost always	93	mean	15	45
+always	97	mean	15	45
+always	97	mean	15	24
+never	1	mean	15	45
+never	1	mean	15	24
+occasionally	17	mean	15	24
+occasionally	21	mean	15	45
+often	59	mean	15	24
+often	71	mean	15	45
+rarely	5	mean	15	45
+rarely	9	mean	15	24
+seldom	7	mean	15	24
+seldom	8	mean	15	45
+sometimes	19	mean	15	24
+sometimes	22	mean	15	45
+usually	70	mean	15	24
+usually	84	mean	15	45
+always	98	mean	16	53
+always	98	mean	16	80
+always	100	mean	16	40
+often	57	mean	16	40
+often	59	mean	16	53
+often	61	mean	16	80
+rarely	12	mean	16	80
+rarely	15	mean	16	53
+rarely	23	mean	16	40
+sometimes	34	mean	16	53
+sometimes	37	mean	16	40
+sometimes	38	mean	16	80
+often	50	median	17	127
+often	60	median	17	59
+almost never	3	median	18	335
+almost never	3	median	18	395
+always	99	median	18	335
+always	99	median	18	395
+as often as not	50	median	18	395
+more often than not	62	median	18	395
+never	0	median	18	335
+never	1	median	18	395
+not often	11	median	18	395
+not often	13	median	18	335
+now and then	20	median	18	335
+now and then	25	median	18	395
+occasionally	20	median	18	335
+occasionally	23	median	18	395
+often	73	median	18	395
+often	78	median	18	335
+once in a while	15	median	18	335
+once in a while	16	median	18	395
+rarely	5	median	18	335
+rarely	5	median	18	395
+seldom	10	median	18	335
+seldom	10	median	18	395
+sometimes	20	median	18	335
+sometimes	27	median	18	395
+usually	80	median	18	395
+usually	85	median	18	335
+very often	88	median	18	335
+very often	88	median	18	395
+very seldom	6	median	18	335
+very seldom	6	median	18	395
+almost always	89	mean	19	51
+always	100	mean	19	51
+never	0	mean	19	51
+occasionally	21	mean	19	51
+often	59	mean	19	51
+rarely	5	mean	19	51
+usually	71	mean	19	51
+almost always	91	mean	20	230
+almost never	4	mean	20	230
+always	99	mean	20	230
+as often as not	50	mean	20	230
+frequent	67	mean	20	230
+infrequent	17	mean	20	230
+less often than not	38	mean	20	230
+more often than not	59	mean	20	230
+never	0	mean	20	230
+not infrequent	45	mean	20	230
+not often	19	mean	20	230
+not very often	13	mean	20	230
+now and then	18	mean	20	230
+occasionally	21	mean	20	230
+once in a while	18	mean	20	230
+rarely	7	mean	20	230
+seldom	13	mean	20	230
+sometimes	28	mean	20	230
+usually	74	mean	20	230
+very frequent	81	mean	20	230
+very infrequent	7	mean	20	230
+very often	82	mean	20	230
+very rarely	4	mean	20	230
+very seldom	6	mean	20	230
+always	100	mean	21	144
+fairly often	61	mean	21	144
+frequently	74	mean	21	144
+moderately often	57	mean	21	144
+mostly	80	mean	21	144
+never	0	mean	21	144
+occasionally	32	mean	21	144
+often	66	mean	21	144
+rarely	13	mean	21	144
+seldom	17	mean	21	144
+sometimes	36	mean	21	144
+very often	83	mean	21	144

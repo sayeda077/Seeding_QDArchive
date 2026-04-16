@@ -1,0 +1,53 @@
+verbal_label	dimension	mean_percentage	lower_quartile	median_percentage	upper_quartile	iqr
+always	frequency	99	99.6	99.7	99.8	0.3
+not often	frequency	19	10.3	19.7	24.8	14.5
+almost always	frequency	91	89.7	91.7	95.2	5.5
+not very often	frequency	13	5.3	10.1	19.6	14.3
+certain	probability	98	98.7	99.6	99.8	1.1
+possible	probability	33	7.5	38.5	50.2	42.7
+almost certain	probability	90	87.5	90.2	95	7.5
+impossible	probability	1	0.2	0.3	0.5	0.3
+very frequent	frequency	81	75.3	82.6	89.7	14.5
+high chance	probability	82	77.5	80.4	89.1	11.7
+frequent	frequency	67	60	72.2	75.3	15.2
+better than even chance	probability	58	53.3	57.6	60.2	6.9
+not infrequent	frequency	45	32.7	49.6	57.3	24.6
+even chance	probability	50	49.7	50	50.2	0.5
+infrequent	frequency	17	10.1	17.3	22.6	12.5
+less than an even chance	probability	41	39.6	40.2	45	5.4
+very infrequent	frequency	7	3.6	5.2	10	6.4
+poor chance	probability	13	8.4	10.3	19.7	11.3
+very high probability	probability	91	89.8	92.5	95.2	5.4
+low chance	probability	10	5	9.8	12.8	7.8
+high probability	probability	80	77.1	82.3	87.2	10.1
+liable to happen	probability	66	59.8	68.2	77.7	17.9
+moderate probability	probability	51	40.1	52.4	58.7	18.5
+might happen	probability	36	19.9	37.6	50.1	30.2
+low probability	probability	16	7.8	15	22.3	14.5
+very low probability	probability	6	1.9	4.9	7.6	5.7
+usually	frequency	74	65.6	75.1	82.2	16.7
+very likely	probability	85	80.1	87.5	90.2	10.1
+unusually	frequency	19	9.9	17.4	26.1	16.3
+likely	probability	70	62.6	71.1	77.6	15
+sometimes	frequency	28	17.5	25	35	17.5
+unlikely	probability	17	9.8	17.2	22.7	13
+once in a while	frequency	18	9.9	15.3	22.4	12.5
+very unlikely	probability	6	2.7	5	9.8	7.1
+not unreasonable	probability	39	23.5	37.6	52.6	29.1
+very probable	probability	87	81.5	89.7	90.4	8.9
+occasionally	frequency	21	12.5	20	27.7	15.2
+probable	probability	70	64.7	70.2	77.7	13
+now and then	frequency	18	9.8	15.1	25	15.1
+improbable	probability	16	7.6	12.5	22.3	14.7
+seldom	frequency	13	7.4	10.2	17.5	10.1
+very improbable	probability	6	1.5	4.8	7.5	5.9
+very seldom	frequency	6	3.2	4.9	7.7	4.5
+very often	frequency	82	77.5	82.8	89.9	12.4
+rarely	frequency	7	3.6	7.2	10	6.5
+often	frequency	70	65	72.5	75.4	10.4
+very rarely	frequency	4	1.2	3	5	3.8
+more often than not	frequency	59	57.1	59.8	60.4	3.3
+as often as not	frequency	50	49.8	50	50.3	0.6
+almost never	frequency	4	1.2	2.9	4.6	3.4
+less often than not	frequency	38	34.8	40	42.7	7.9
+never	frequency	0	0.1	0.3	0.4	0.3
