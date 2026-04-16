@@ -17,6 +17,16 @@ The pipeline:
 * Downloads dataset files
 * Organizes files into a structured folder system
 
+The pipeline searches for datasets compatible with the following **Qualitative Data Analysis (QDA)** software packages and file formats:
+
+- **REFI-QDA Standard** (`.qdpx`, `.qdc`)  
+- **MAXQDA** (`.mx`, `.mx24`, `.mx22`, `.mx20`)  
+- **NVivo** (`.nvp`, `.nvpx`)  
+- **ATLAS.ti** (`.atlproj`, `.hpr7`)  
+- **QDA (Generic / Other tools)** (`.qda`, `.rqda`, `.qdp`, `.qel`)  
+- **QDA Miner** (`.ppj`, `.pprj`, `.qlt`)  
+- **f4analyse** (`.f4p`)  
+
 It includes:
 
 - **Multi-repository data acquisition** using APIs (DataverseNO) and manual collection (Murray Archive)  
