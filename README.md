@@ -30,6 +30,48 @@ It includes:
 
 ---
 
+## Pipeline Diagram
++---------------------+
+|  User Input Query   |
+|  (e.g., "maxqda")   |
++----------+----------+
+           |
+           v
++-----------------------------+
+|   Dataverse API Search      |
+|   (dataverse.no)            |
++-------------+---------------+
+              |
+              v
++-----------------------------+
+|  Metadata Extraction        |
+|  (title, DOI, author, etc.)|
++-------------+---------------+
+              |
+              v
++-----------------------------+
+|  Store in SQLite Database   |
+|  (projects, files, etc.)    |
++-------------+---------------+
+              |
+              v
++-----------------------------+
+|  Download Dataset Files     |
+|  (organized in folders)     |
++-------------+---------------+
+              |
+              v
++-----------------------------+
+|  Manual Input (Murray)      |
+|  (metadata + files)         |
++-------------+---------------+
+              |
+              v
++-----------------------------+
+|  Final Structured Archive   |
+|  (clean folder system)      |
++-----------------------------+
+
 ## Database Summary
 
 | Repository     | Projects | Files     |
