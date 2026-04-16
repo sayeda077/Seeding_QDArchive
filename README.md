@@ -1,10 +1,10 @@
 # Seeding_QDArchive
 
-Student: Sayeda Fatema Tuj Zohura
-Student ID: 23308310
-Project: Applied Software Engineering Master's Project
-Supervisor: Prof. Dr. Dirk Riehle
-University: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- **Student:** Sayeda Fatema Tuj Zohura  
+- **Student ID:** 23308310  
+- **Program:** Applied Software Engineering (Master’s)  
+- **Supervisor:** Prof. Dr. Dirk Riehle  
+- **University:** Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 
 ## Project Overview
 
