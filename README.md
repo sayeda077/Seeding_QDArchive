@@ -69,8 +69,6 @@ To ensure relevance and reduce unnecessary downloads, the pipeline excludes cert
 - **Video formats:** `.mp4`, `.mov`, `.avi`, `.mkv`, `.wmv`, `.flv`, `.m4v`, `.webm`  
 - **Audio formats:** `.mp3`, `.wav`, `.aac`, `.flac`, `.ogg`, `.wma`, `.m4a`  
 
-### Rationale
-
 These file types are skipped because:
 
 - They are typically **raw media files**, not structured QDA project data  
@@ -83,7 +81,6 @@ This filtering improves:
 -  Storage optimization  
 -  Dataset relevance  
 
----
 
 ---
 ## Pipeline Diagram
