@@ -1,6 +1,6 @@
 # Seeding_QDArchive
 
-## 📌 Overview
+## Overview
 
 This project implements a data acquisition pipeline for collecting and organizing **Qualitative Data Analysis (QDA)** datasets from multiple research repositories.
 
@@ -13,7 +13,7 @@ The pipeline:
 
 ---
 
-## 📊 Dataset Summary
+## Dataset Summary
 
 | Repository     | Projects | Files     |
 | -------------- | -------- | --------- |
@@ -23,7 +23,7 @@ The pipeline:
 
 ---
 
-## 🗄️ Database
+## Database
 
 The SQLite database used in this project:
 
@@ -63,7 +63,7 @@ QDArchive/
 Due to large file size (~87GB), datasets are stored externally.
 
 Access datasets here:
-👉 **[(https://faubox.rrze.uni-erlangen.de/getlink/fiLyHzLbH2cKweyYLbvF7t/)]**
+ **[(https://faubox.rrze.uni-erlangen.de/getlink/fiLyHzLbH2cKweyYLbvF7t/)]**
 
 ---
 
