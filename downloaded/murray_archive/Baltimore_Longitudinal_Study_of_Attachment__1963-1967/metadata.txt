@@ -1,1 +1,5 @@
-
+Title: Baltimore Longitudinal Study of Attachment, 1963-1967
+Author: Ainsworth, Mary S.
+URL: https://doi.org/10.7910/DVN/YKAMUT
+Repository: Murray Archive
+License: Custom Dataset Terms
