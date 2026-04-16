@@ -1,6 +1,12 @@
 # Seeding_QDArchive
 
-## Overview
+Student: Sayeda Fatema Tuj Zohura
+Student ID: 23308310
+Project: Applied Software Engineering Master's Project
+Supervisor: Prof. Dr. Dirk Riehle
+University: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+
+## Project Overview
 
 This project implements a data acquisition pipeline for collecting and organizing **Qualitative Data Analysis (QDA)** datasets from multiple research repositories.
 
