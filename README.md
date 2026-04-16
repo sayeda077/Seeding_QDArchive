@@ -79,9 +79,9 @@ These file types are skipped because:
 
 This filtering improves:
 
-- ⚡ Download efficiency  
-- 💾 Storage optimization  
-- 🎯 Dataset relevance  
+-  Download efficiency  
+-  Storage optimization  
+-  Dataset relevance  
 
 ---
 
