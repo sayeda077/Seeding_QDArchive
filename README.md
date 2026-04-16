@@ -200,7 +200,9 @@ python main.py stats --db 23308310-seeding.db
 
 ---
 
+## Database Statistics (Execution Output)
 
+![Database Stats](database_stats.png)
 
 ---
 
