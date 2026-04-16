@@ -29,7 +29,7 @@ It includes:
 | 2  | Murray Archive  | [https://www.murray.harvard.edu](https://www.murray.harvard.edu) |
 
 ---
-## 📊 Pipeline Diagram
+## Pipeline Diagram
 
 ```
 +---------------------+
