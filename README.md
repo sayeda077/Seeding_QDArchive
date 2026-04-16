@@ -176,7 +176,7 @@ QDArchive/
 
 ## Dataset Access
 
-Due to large file size (~87GB), datasets are stored externally.
+Due to large file size, downloaded datasets are stored externally.
 
 Access datasets here:
  **[(https://faubox.rrze.uni-erlangen.de/getlink/fiLyHzLbH2cKweyYLbvF7t/)]**
