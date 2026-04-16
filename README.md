@@ -44,6 +44,47 @@ It includes:
 | 1  | DataverseNO     | [https://dataverse.no](https://dataverse.no) |
 | 2  | Murray Archive  | [https://www.murray.harvard.edu](https://www.murray.harvard.edu) |
 
+## 🔍 Query Strategy
+
+The pipeline uses a set of predefined search queries to retrieve relevant QDA datasets from repositories.
+
+### Default Queries
+
+The following keywords are used as initial search queries:
+
+- `qdpx`  
+- `maxqda`  
+- `interview study`  
+
+These queries are selected to target datasets commonly associated with **Qualitative Data Analysis (QDA)** workflows and tools.
+
+---
+
+## Skipped File Types
+
+To ensure relevance and reduce unnecessary downloads, the pipeline excludes certain file types that are not directly useful for QDA analysis.
+
+### Ignored Extensions
+
+- **Video formats:** `.mp4`, `.mov`, `.avi`, `.mkv`, `.wmv`, `.flv`, `.m4v`, `.webm`  
+- **Audio formats:** `.mp3`, `.wav`, `.aac`, `.flac`, `.ogg`, `.wma`, `.m4a`  
+
+### Rationale
+
+These file types are skipped because:
+
+- They are typically **raw media files**, not structured QDA project data  
+- They significantly increase storage size  
+- They are not directly usable in QDA tools without preprocessing  
+
+This filtering improves:
+
+- ⚡ Download efficiency  
+- 💾 Storage optimization  
+- 🎯 Dataset relevance  
+
+---
+
 ---
 ## Pipeline Diagram
 
