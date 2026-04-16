@@ -19,11 +19,18 @@ It includes:
 - **Automated download pipeline** for retrieving dataset files from Dataverse repositories  
 - **Manual dataset integration** for repositories without API support (Murray Archive)  
 - **Organized folder structure** for efficient dataset storage and access  
-- **Scalable pipeline design** for extending to additional repositories  
+- **Scalable pipeline design** for extending to additional repositories
+
+## Repositories
+
+| ID | Name            | URL |
+|----|-----------------|-----|
+| 1  | DataverseNO     | [https://dataverse.no](https://dataverse.no) |
+| 2  | Murray Archive  | [https://www.murray.harvard.edu](https://www.murray.harvard.edu) |
 
 ---
 
-## Dataset Summary
+## Database Summary
 
 | Repository     | Projects | Files     |
 | -------------- | -------- | --------- |
@@ -33,9 +40,7 @@ It includes:
 
 ---
 
-## Database
-
-The SQLite database used in this project:
+The project uses an SQLite database to store all collected metadata in a structured format:
 
 ```
 23308310-seeding.db
