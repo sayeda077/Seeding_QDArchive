@@ -29,8 +29,9 @@ It includes:
 | 2  | Murray Archive  | [https://www.murray.harvard.edu](https://www.murray.harvard.edu) |
 
 ---
+## 📊 Pipeline Diagram
 
-## Pipeline Diagram
+```
 +---------------------+
 |  User Input Query   |
 |  (e.g., "maxqda")   |
@@ -71,6 +72,7 @@ It includes:
 |  Final Structured Archive   |
 |  (clean folder system)      |
 +-----------------------------+
+```
 
 ## Database Summary
 
